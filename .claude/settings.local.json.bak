@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(syllabus_generator)",
+      "Skill(grill-me)",
+      "Bash(cp *)",
+      "Skill(bill_of_materials_generator)",
+      "WebFetch(domain:www.amazon.com)",
+      "WebFetch(domain:www.protechtrader.com)",
+      "WebSearch",
+      "WebFetch(domain:totalelement.com)",
+      "WebFetch(domain:www.kjmagnetics.com)",
+      "Bash(cp -f /home/jeff/tmp/electronics_primer/electronics-primer-syllabus.md /home/jeff/tmp/electronics_primer/electronics-primer-syllabus.md.bak)",
+      "Bash(cp -f /home/jeff/tmp/electronics_primer/input/my-vision.md /home/jeff/tmp/electronics_primer/input/my-vision.md.bak)",
+      "Bash(npx --yes markdownlint-cli2 \"BOM.md\" \"electronics-primer-syllabus.md\" \"CLAUDE.md\" \"input/my-vision.md\")",
+      "Bash(cp -f input/NOTES.md input/NOTES.md.bak)",
+      "Bash(cp -f electronics-primer-syllabus.md electronics-primer-syllabus.md.bak)",
+      "Bash(cp -f input/my-vision.md input/my-vision.md.bak)",
+      "Bash(cp -f BOM.md BOM.md.bak)"
+    ]
+  }
+}
