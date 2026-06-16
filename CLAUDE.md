@@ -21,7 +21,7 @@ input/my-vision.md  (the Specification — instructor's intent)
         │
         ├─(/bill_of_materials_generator)─────▶ BOM  (source input/my-bom.md → improved BOM.md at repo root; the cost/sourcing source of truth)
         │
-        └─(/lesson_plan_generator)───────────▶ class-NN-lesson-plan.md
+        └─(/lesson_plan_generator)───────────▶ lesson_plans/class-NN-lesson-plan.md
                                                      │
         lecture notes per class build up from these three skills, appended into one file:
         (/explainer, /history_and_application, /theory_of_operation) ▶ lecture_notes/class-NN-lecture-notes.md
@@ -48,8 +48,8 @@ Makersmiths course. `input/my-claude-prompts.md` is the instructor's prompt play
 course (a Line Following Robot) driven through the same pipeline — for software-heavy courses the chain
 extends to a Specification → Development Plan, with those outputs written under `docs/`. For *this*
 (analog electronics) course there is no software: the syllabus and the generated BOM (`BOM.md`) live at the
-repo root (the original BOM source is `input/my-bom.md`), per-class lesson plans live at the repo root as
-`class-NN-lesson-plan.md`, and per-class lecture notes go under `lecture_notes/`.
+repo root (the original BOM source is `input/my-bom.md`), per-class lesson plans live under `lesson_plans/` as
+`lesson_plans/class-NN-lesson-plan.md`, and per-class lecture notes go under `lecture_notes/`.
 
 The repo-root `README.md` is the **instructor's own setup/bootstrap notes** (how to install the skills and
 launch a session) — it is currently a stub, and it is *not* a generated course deliverable, so it is exempt
