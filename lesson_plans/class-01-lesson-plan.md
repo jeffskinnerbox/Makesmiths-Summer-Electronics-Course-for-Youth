@@ -283,23 +283,32 @@ Give feedback as questions, not scores: *"What would happen to the reading if yo
 
 ## 10. Resources & References
 
-
 **Course text (students should have read Exp 1–2):**
 
 * *Make: Electronics, 2nd Edition*, Charles Platt — [print][01] / free [PDF][02]. Class 1 covers Experiments 1–2.
 
 **Instructor prep / background:**
-
-* [Doctronics][11] — clear meter and breadboard illustrations for the multimeter setup.
+* [Circuit Canvas][09] — makes it quick and easy to draw schematics and wiring diagrams.
 * [The Electronics Club][12] — friendly entry-level explanations of voltage, current, resistance.
 * [Electronics Tutorials][13] — a little more theory if you want depth on Ohms/Volts/Amps before class.
+* [Electrical Engineering Basics][03]
 
 **Student-facing enrichment (optional, after class):**
+* [Best Explanation of Alternating Current Vs Direct Current](https://www.youtube.com/watch?v=CCHGatqIkAI&t=138s)
+* [Electricity Water Analogy](https://www.mathsisfun.com/physics/electricity-water-analogy.html)
+* [An intuitive approach for understanding electricity](https://www.youtube.com/watch?v=X_crwFuPht4)
+* [Understanding the basics of electricity by thinking of it as water](https://www.freeingenergy.com/understanding-the-basics-of-electricity-by-thinking-of-it-as-water/)
+* [Voltage, Current & Resistance: Electricity Explained Finally! (The Water Analogy)](https://www.youtube.com/watch?v=3qz1SVk1sRc)
+* [Every Basic Electronic Component Explained in 21 Minutes](https://www.youtube.com/watch?v=HGNKhLActDo) — good overview as the course builds; resistors and fuses appear early.
+* [Shock and Awe: The Story of Electricity -- Jim Al-Khalili BBC Horizon](https://www.youtube.com/watch?v=Gtp51eZkwoI)
+* [Zap, Crackle and Pop: The Story of Electricity](https://www.youtube.com/watch?v=Ch6jti8i6u4)
 
-* [Every Basic Electronic Component Explained in 21 Minutes][08] — good overview as the course builds; resistors and fuses appear early.
+For the Mathematically prepared:
+* [Maxwell's Equations - The Ultimate Beginner's Guide](https://www.youtube.com/watch?v=F3QHUvr8d8I)
+* [How Divergence and Curl Were Invented](https://www.youtube.com/watch?v=11QvV18JGQM)
+* [Circuit Analysis Using Kirchhoff's Laws](https://www.youtube.com/watch?v=kZvhNDmLjEU)
 
 **Course context:**
-
 * [Makersmiths][05] — the makerspace hosting the course.
 * [KidWind][04] — the wind-energy program this course connects to; today's volts/amps/ohms underlie every turbine generator.
 
@@ -309,9 +318,9 @@ Give feedback as questions, not scores: *"What would happen to the reading if yo
 
 [01]:https://www.amazon.com/Make-Electronics-Learning-Through-Discovery/dp/1680450263/
 [02]:https://someplace-else.neocities.org/books/Make%20Electronics%202nd%20Edition.pdf
+[03]:https://www.youtube.com/playlist?list=PLWv9VM947MKi_7yJ0_FCfzTBXpQU-Qd3K
 [04]:https://kidwind.org/
-[05]:https://makersmiths.org/
-[08]:https://www.youtube.com/watch?v=HGNKhLActDo
-[11]:http://www.doctronics.co.uk
+[05]:https://makersmiths.org/event-6729146
+[09]:https://circuitcanvas.com/
 [12]:https://electronicsclub.info
 [13]:https://www.electronics-tutorials.ws

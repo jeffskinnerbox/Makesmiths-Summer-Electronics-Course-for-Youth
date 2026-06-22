@@ -68,3 +68,57 @@ Create a lesson plan for class 1 then stop and let me review it.
 
 ---
 
+### 4th Claude Code Prompt
+Using the /syllabus_generator skill, update the @electronics-primer-syllabus.md document so that it represents all 6 classes and not just the first class.
+
+---
+
+### 5th Claude Code Prompt
+I'm told the speed of a randomly moving electron in a wire is about 10.0E6 m/sec.
+I'm also told that the drift velocity of electron is less than 0.1 mm/sec when voltage is applied to that wire.
+Electricity is all about pushing a long line of electrons, standing shoulder to shoulder, so electricity is instantaneous when a voltage is applied.
+
+Using the /explainer skill, check the facts I stated and give me a proper answer to the questions:
+1. If I had a pair of wires from earth to the sun, how long would it take to turn on a light bulb at the sun?
+2. When would I see electron drift on the return path of the wire?
+3. What is the speed of electricity?
+
+Put you answer in @explainers/how-fast-is-electricity.md
+
+---
+
+### 6th Claude Code Prompt
+I'm told that direct current (DC) flows uniformly through the entire cross-section of the wire.
+The current travels equally through the core and the outer edges.
+On the other hand, alternating current (AC) pushes toward the outside of the wire (the "skin effect").
+
+Using the /explainer skill, check the facts I stated and give me a proper answer to the questions:
+1. For AC current, how deep into the skill is the "skin effect"?
+2. Does the skin effect vary with AC frequency, or voltage level, or size of the wire?
+3. What are the practical/engineering impacts of the skin effect?
+
+Put you answer in @explainers/where-does-electricity-flow-in-a-wire.md
+
+---
+
+### 7th Claude Code Prompt
+Nikola Tesla, Thomas Edison, both played key roles in the "War of the Currents".
+Using the /explainer skill, tell me what did they all do,
+and why did George Westinghouse & Nikola Tesla together win this war?
+
+Put you answer in @explainers/war-of-the-currents.md
+
+---
+
+### 8th Claude Code Prompt
+When a great deal of current is flowing in a wire, it can heat-up and get very hot.
+
+Using the /explainer skill, check the facts I stated and give me a proper answer to the questions:
+1. What mechanism in the wire that is causing the heating?
+2. What is the relationship between the size of the wire, the amount of current, and the amount of heat produced?
+3. Is this relationship the same for DC and AC currents?
+4. Why do electrical power plant's high power lines, going long distance, use very high voltages, and are high above the ground?
+
+Put you answer in @explainers/why-do-wires-heat-up.md
+
+---

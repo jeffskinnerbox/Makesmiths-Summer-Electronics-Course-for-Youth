@@ -5,7 +5,7 @@
 * **Class number:** 4 of 6
 * **Phase:** 2 — Controlling Electricity
 * **Date:** Tuesday, July 14, 2026, 6:00–8:00 PM
-* **Experiments:** Exp 9 *Time and Capacitors* + Exp 10 *Transistor Switching* + Exp 11 *Light and Sound* (*Make: Electronics, 2nd Ed.*)
+* **Experiments:** Exp 9 *Time and Capacitors* + Exp 10 *Transistor Switching* + Exp 11 *A Modular Project* (*Make: Electronics, 2nd Ed.*)
 * **Prerequisites from prior classes:** Classes 1–3 (Exp 1–8) — students can use a multimeter (resistance, voltage, current, continuity), know Ohm's Law, can read a basic schematic, and have built on a **breadboard** (the relay oscillator). Students should have read Experiments 9–11 in the [book][01] beforehand.
 * **Source of truth:** This plan implements [`electronics-primer-syllabus.md`](../electronics-primer-syllabus.md), Class 4. Component costs and sourcing live in [`BOM.md`](../BOM.md), never here.
 
@@ -153,7 +153,7 @@ Three experiments, ~60 minutes. Suggested split: **Exp 9 ~18 min · Exp 10 ~17 m
 ---
 
 
-#### Experiment 11 — *Light and Sound* — the modular project (≈25 min)
+#### Experiment 11 — *A Modular Project* — light and sound from one circuit (≈25 min)
 
 
 The marquee build and Phase 2 capstone: a two-transistor **astable multivibrator** that flashes, then sings.

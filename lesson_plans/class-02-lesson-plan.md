@@ -5,7 +5,7 @@
 * **Class number:** 2 of 6
 * **Phase:** 1 — Foundations
 * **Date:** Tuesday, June 30, 2026, 6:00–8:00 PM
-* **Experiments:** Exp 3 *Your First Circuit* + Exp 4 *Variable Resistance* + Exp 5 *Let's Make a Battery* (*Make: Electronics, 2nd Ed.*)
+* **Experiments:** Exp 3 *Your First Circuit* + Exp 4 *Varying the Voltage* + Exp 5 *Let's Make a Battery* (*Make: Electronics, 2nd Ed.*)
 * **Prerequisites from prior classes:** Class 1 (Exp 1–2) — students have used a multimeter to measure resistance and know the words **voltage, current, resistance** and the water analogy. Students should have read Experiments 3–5 in the [book][01] beforehand.
 * **Source of truth:** This plan implements [`electronics-primer-syllabus.md`](../electronics-primer-syllabus.md), Class 2. Component costs and sourcing live in [`BOM.md`](../BOM.md), never here.
 
@@ -148,7 +148,7 @@ Three experiments, ~60 minutes. Suggested split: **Exp 3 ~18 min · Exp 4 ~28 mi
 ---
 
 
-#### Experiment 4 — *Variable Resistance* → deriving Ohm's Law (≈28 min)
+#### Experiment 4 — *Varying the Voltage* → deriving Ohm's Law (≈28 min)
 
 
 This is the centerpiece. A potentiometer ("pot") is a knob-controlled variable resistor: a circular resistive track with a wiper that slides along it. The center terminal is the wiper; the two outer terminals are the ends of the track. It has **no polarity**.

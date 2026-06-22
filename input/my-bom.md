@@ -23,7 +23,7 @@ Each team has one at least one [Make: Electronics Component Pack 1][06]
 ## Supplemental Materials for the KidWind Capstone (NOT in Pack 1)
 Experiments 25, 26, and 28 require items beyond Pack 1 — to be procured separately
 - A **large screwdriver** and a **paper clip** (Experiment 25 electromagnet).
-- **Neodymium magnets** — a small cylindrical magnet (≈3/16″ × 1.5″) and a larger one (≈3/4″ × 1″), axially magnetized (Experiments 26, 28).
+- **Neodymium magnets** — a small cylindrical magnet (≈3/16″ × 1.5″) and a larger one (≈3/4″ × 1″), axially magnetized (Experiment 26).
 - **Magnet wire** (≈26-gauge, several hundred feet) and/or extra **22-gauge hookup wire** (~200 ft) for winding generator coils.
 - A **1N4001 switching diode**, an extra **1,000µF capacitor**, a **47-ohm resistor**, and extra **low-current LEDs**.
 - Materials for the spinning-generator rig (whole class builds): **wooden dowel** (~1/2″), **PVC pipe** (~3/4″ ID),

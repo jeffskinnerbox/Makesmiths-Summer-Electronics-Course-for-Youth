@@ -1,4 +1,5 @@
-# Course Syllabus: Summer Electronics Course for Youth
+
+# Course Syllabus:<br>Summer Electronics Course for Youth<br>(aka Electronics Primer)
 
 * **Organization:** [Makersmiths][05] Makerspace
 * **Course page:** [Summer Electronics Course for Youth][06]
@@ -111,16 +112,16 @@ Each team shares one [Make: Electronics Standard Component Pack 1][03] (the mult
 
 ### Supplemental Materials for the Capstone (Classes 5–6; not in Pack 1)
 * **Large screwdriver** and a **paper clip** (Exp 25 electromagnet).
-* **Neodymium magnets** — a small cylinder (≈3/16″ × 1.5″) and a larger one (≈3/4″ × 1″), axially magnetized (Exp 26, 28).
+* **Neodymium magnet** — a cylinder (≈3/4″ × 1″, axially magnetized), one per team, shuttled through a coil to induce current (Exp 26).
 * **Magnet wire** (≈26-gauge, several hundred feet) and/or extra **22-gauge hookup wire** (~200 ft) for winding coils.
 * A **1N4001 diode**, an extra **1,000µF capacitor**, a **47-ohm resistor**, and extra **low-current LEDs**.
-* For the optional whole-class generator rig: **wooden dowel** (~1/2″), **PVC pipe** (~3/4″ ID), and two pieces of **1/4″ plywood**.
+* Short **3/4″ ID PVC tubes** (one per team) as coil forms for the Exp 26 hand generators. *(For Summer 2026 the per-team hand-generator path was chosen — see [Appendix A](#appendix-a--source-prompt-and-clarification-qa), Q3 — so the optional whole-class spinning rig and its dowel/plywood are not used this term.)*
 
 ### Consumables
 * For the Exp 5 lemon battery: **lemons** (or lemon juice), **copper-plated coins** (e.g., US pennies), and **galvanized (zinc-plated) steel brackets**.
 
 ### Shared Tools Provided by the Makerspace
-* A **digital multimeter per team**, **9-volt and AA batteries**, **safety glasses**, shared hand tools, and a **drill with a 1″ hole saw / Forstner bit** for the optional capstone generator rig.
+* A **digital multimeter per team**, **9-volt and AA batteries**, **safety glasses**, and shared hand tools. *(The optional capstone spinning rig — and its drill / 1″ hole saw / Forstner bit — is not built this term; the per-team hand generators need no drilling. See [Appendix A](#appendix-a--source-prompt-and-clarification-qa), Q3.)*
 
 ### Software & Student Computer Requirements
 * **None.** This is an analog electronics primer — no laptops, no internet, no programming, no Arduino. Students need no computer for class.
@@ -129,7 +130,7 @@ Each team shares one [Make: Electronics Standard Component Pack 1][03] (the mult
 * **Exp 2 (short circuit / blow a fuse):** use only a single AA cell as directed; wires and the cell get hot. Wear safety glasses. Never short a wall outlet, car battery, or lithium battery.
 * **Exp 7 (open a relay):** cutting a relay open uses a utility knife — adult-supervised.
 * **Capstone magnets:** neodymium magnets pinch hard and are a serious swallowing hazard — keep clear of fingers and never near the mouth; keep away from phones/cards.
-* **Capstone rig:** drilling is done by the instructor/adult, not students.
+* **Capstone rig (only if the optional spinning rig is built):** any drilling is done by the instructor/adult, not students. *(Not used for Summer 2026 — the per-team hand generators need no drilling; see [Appendix A](#appendix-a--source-prompt-and-clarification-qa), Q3.)*
 
 ---
 
@@ -184,62 +185,77 @@ Each phase ends in a **demonstration, not a competition** *(see [Appendix A](#ap
 ### Phase 1 — Foundations
 
 **Class 1 — Electricity Is a Flow** *(Experiments 1–2)*
-* **Builds:** Exp 1 *Taste the Electricity* — feel a 9V battery on the tongue; use the multimeter to measure resistance of tongue, skin, and water (with/without salt). Exp 2 *Let's Abuse a Battery!* — safely short a single AA cell to feel heat; blow a 3-amp fuse and inspect the melted element.
-* **Core concepts:** electricity as a flow of electrons; current vs. voltage vs. resistance; lower resistance → more current → more heat; what a short circuit is; how a fuse protects a circuit; first multimeter use (resistance); DC vs. AC.
-* **Theory of operation (real device):** household fuses and circuit breakers; why thin wires in a toaster glow hot.
-* **History/people:** Georg Ohm (resistance); Alessandro Volta (the battery / the volt); André-Marie Ampère (current / the amp).
-* **Applications:** lie detectors (skin resistance); battery safety; why power tools warn against shorting lithium cells.
+* **Builds:**
+  * Exp 1 *Taste the Electricity* — moisten the tongue and touch it across both terminals of a 9V battery (a tingle; weaker when the tongue is dried), then use the multimeter on its ohms range to measure resistance of tongue (roughly 50K wet, higher when dry), dry skin (off-scale — reads "OL"/"1" until moistened), and three waters. *Expected observation:* salt water reads lowest, plain water next, distilled highest — moisture and dissolved salt both lower resistance.
+  * Exp 2 *Let's Abuse a Battery!* — safely short a single AA **alkaline** cell through its holder and feel the wire (then the cell) grow warm after a minute or two, then wire a fresh cell across a 3-amp fuse and watch the thin element melt into an open gap, inspected under a magnifier against a fresh fuse. *Safety:* glasses on, single AA only — never a 9V, wall outlet, car, or lithium cell.
+* **Core concepts:** electricity as a flow of electrons; voltage (pressure) vs. current (rate of flow) vs. resistance (restriction), via the water analogy; the class's through-line — **lower resistance → more current → more heat** (9V barely tingles the high-resistance tongue, yet a near-zero-resistance wire on just 1.5V gets hot because a large current flows); what a short circuit is; how a fuse's thin metal is a deliberate sacrificial weak link that melts *first* to protect the wiring; first multimeter use (resistance, and reading the "K"/"M" multipliers); DC (steady, one direction — what this whole course uses) vs. AC (alternates ~60 times/second).
+* **Theory of operation (real device):** household fuses and resettable circuit breakers (which trip with a spring/electromagnet instead of melting metal); why the thin, higher-resistance nichrome wire in a toaster glows hot.
+* **History/people:** Georg Ohm (resistance — the ohm); Alessandro Volta (the first true battery — the volt); André-Marie Ampère (current — the amp). Three obscure researchers whose names are now units.
+* **Applications:** lie detectors (stress → perspiration → lower skin resistance); battery safety; why tools warn against shorting lithium cells (runaway current, fire).
 * **KidWind tie-in:** every wind-turbine circuit obeys these same volts/amps/ohms; protecting a circuit matters when a generator delivers real current.
 * **Journal milestone:** record the tongue/skin/water resistance readings and one sentence on why salt water conducts better.
 
 **Class 2 — Resistance and Ohm's Law** *(Experiments 3–5)*
-* **Builds:** Exp 3 *Your First Circuit* — light an LED through 470Ω, 1K, 2.2K resistors and compare brightness; read resistor color codes; verify values with the meter. Exp 4 *Varying the Voltage* — use a potentiometer to dim/brighten an LED; measure current in series; derive that volts = amps × ohms. Exp 5 *Let's Make a Battery* — build a lemon/coin-and-bracket battery and light/measure it.
-* **Core concepts:** resistors limit current; the LED's forward voltage/forward current and why it needs a series resistor; Ohm's Law V = I × R; series vs. parallel; current is the same everywhere in a simple series circuit; how a chemical battery liberates electrons (primary vs. secondary cells); the historical positive→negative convention vs. real electron flow.
-* **Theory of operation (real device):** LED flashlights and indicator lights; dimmer controls; how a AA/9V battery actually works inside.
-* **History/people:** Ohm's Law in practice; Volta's "voltaic pile"; Benjamin Franklin's positive/negative naming error.
-* **Applications:** choosing a resistor to protect an LED; why batteries die; reading the value of any resistor.
+* **Builds:**
+  * Exp 3 *Your First Circuit* — identify the 470Ω (yellow-violet-brown), 1K (brown-black-red), and 2.2K (red-red-red) resistors by their color stripes and verify each on the meter, then light an LED (long leg toward +) through each in turn. *Expected observation:* a brightness ladder — 2.2K dimmest, 470Ω brightest — because lower resistance lets more current through.
+  * Exp 4 *Varying the Voltage* — dim and brighten an LED smoothly with a 1K potentiometer (protected by a 470Ω resistor), then remove the LED, insert the meter **in series** on its mA range, and tabulate current against total resistance at three pot settings (≈9mA at 1K, ≈6mA at 1.5K, ≈4.5mA at 2K). *The discovery:* milliamps × kilohms equals the 9V supply on every row — students derive **V = I × R** from their own numbers rather than being told it.
+  * Exp 5 *Let's Make a Battery* — push a bright copper penny and a galvanized (zinc) bracket into a lemon half (close but not touching), measure ~0.8–1V per cell on the meter, then chain three cells in series (bracket→penny→bracket→penny) to light a low-current LED.
+* **Core concepts:** resistors deliberately restrict current; an LED has **polarity** and fixed forward voltage (~2V) / forward current (~20mA), so it needs a series resistor or it burns out permanently; **Ohm's Law V = I × R** and its rearrangements (I = V/R, R = V/I); measuring current *through* the meter in series vs. voltage *across* two points; how two dissimilar metals in an acid electrolyte liberate electrons (a chemical cell); the odd "preferred values" (1.0, 1.5, 2.2, 4.7…) as a fossil of old ±20% tolerances.
+* **Theory of operation (real device):** LED flashlights and indicator lights; light dimmers and volume/fan-speed knobs (the potentiometer); how a AA/9V battery actually liberates electrons inside.
+* **History/people:** Georg Ohm's law put to work; Volta's 1800 "voltaic pile" (copper/zinc in brine) — rebuilt here with lemons; Benjamin Franklin's positive→negative naming convention, fixed before electrons were known and backwards from real electron flow.
+* **Applications:** sizing a resistor to protect an LED (the same calculation gives 470Ω); why batteries run down; reading the value of any resistor at a glance.
 * **KidWind tie-in:** a turbine's output must be matched to its load — Ohm's Law is exactly how you reason about that; a battery is one way to store generated energy.
 * **Journal milestone:** record current vs. total resistance for the potentiometer test and show that volts ≈ amps × ohms; note one real device that uses a variable resistor.
 
 ### Phase 2 — Controlling Electricity
 
 **Class 3 — Switches, Relays, and Automatic Control** *(Experiments 6–8)*
-* **Builds:** Exp 6 *Very Simple Switching* — read and build from schematics; control an LED with switches (incl. the two-switch stairway-light circuit). Exp 7 *Investigating a Relay* — use continuity mode to discover what closes inside a relay; (adult-supervised) cut one open to see the coil and contacts. Exp 8 *A Relay Oscillator* — first **breadboard** build: wire a relay to switch itself on and off, making it buzz/click rhythmically.
-* **Core concepts:** how to read a schematic (symbols, layout, crossovers, color conventions); poles and throws (SPST/SPDT/DPDT); how a relay uses a small current to switch a larger one; continuity testing; how feedback creates oscillation; introduction to the solderless breadboard.
-* **Theory of operation (real device):** car starter relays; old top-loading washing-machine lid switches; relay-based control in appliances; electromechanical buzzers and old doorbells.
-* **History/people:** the relay in telegraph and early computing/automation.
-* **Applications:** remote and automatic control; turning a small signal into a big action.
+* **Builds:**
+  * Exp 6 *Very Simple Switching* — read a real schematic (battery, resistor, LED, switch symbols; the dot-means-connected / crossing-means-not rule) and wire two SPDT switches so that *either* one toggles an LED. *Expected observation:* the stairway-light behavior — flipping either switch changes the LED regardless of the other.
+  * Exp 7 *Investigating a Relay* — energize a relay's isolated coil pins with a pushbutton (hear the click), then use the meter's **continuity** mode to map which contacts are connected with the coil off vs. on; (adult-supervised) shave a relay open to see the coil, armature/lever, and the contacts it moves between. *Expected observation:* one contact pair is closed at rest, a *different* pair closes when the coil is energized.
+  * Exp 8 *A Relay Oscillator* — the course's first **solderless breadboard** build: wire the relay so its own contact feeds its coil, so energizing it cuts its own power, it drops out, reconnects, and cycles. *Expected observation:* a self-sustaining buzz; adding a 1,000µF capacitor slows it to an audible click-click-click (exact capacitor placement to be confirmed against the bench build).
+* **Core concepts:** reading a schematic as a connection map (symbols, the crossover dot rule, the book's red-positive/blue-negative convention); poles and throws (SPST/SPDT/DPDT); how a relay lets a small coil current switch a much larger, **electrically separate** current — the seed of all automatic control; using continuity to trace an unknown circuit; how feedback makes a circuit oscillate on its own; the solderless breadboard (hidden connecting strips and the side power buses, with a possible mid-rail gap to bridge).
+* **Theory of operation (real device):** the car starter relay (a tiny key-switch current commands hundreds of amps to the starter motor); old top-loading washing-machine lid switches; relay control in appliances; electromechanical buzzers and old doorbells.
+* **History/people:** the telephone switchboard and Scribner's 1878 "jack-knife switch" (why we still say audio "jacks"); the relay running early automatic telephone exchanges and the first computers, before transistors replaced it.
+* **Applications:** remote and automatic control; using a weak signal to command big power; logic and sequencing built from switches.
 * **KidWind tie-in:** turbines need control and protection circuitry; a relay is the simplest "let a small signal control big power" device.
 * **Journal milestone:** sketch the relay's inside and explain in one or two sentences why the oscillator keeps clicking by itself.
 
 **Class 4 — Capacitors, Transistors, Light & Sound** *(Experiments 9–11)*
-* **Builds:** Exp 9 *Time and Capacitors* — charge a capacitor through a resistor and time it; see the RC charging curve and the "63% per time-constant" behavior. Exp 10 *Transistor Switching* — use a 2N2222 transistor to switch/amplify. Exp 11 *A Modular Project* — build the two-transistor astable multivibrator that flashes/pulses an LED, then modify it to drive the 8-ohm loudspeaker and change its pitch (visible flashing → audible tone).
-* **Core concepts:** capacitance and charge storage; the RC time constant (T = R × C) and why charging slows down; the resistor-as-faucet / capacitor-as-balloon analogy; how a transistor uses a small base current to control a larger current (switching and amplifying); how an oscillator's speed sets whether you *see* flashes or *hear* a tone; coupling vs. bypass capacitors shaping sound.
-* **Theory of operation (real device):** blinking lights and timers; the "pulsing glow" on old laptop logos; how audio is generated and shaped; transistors as the building block of all modern electronics.
-* **History/people:** the transistor's role in shrinking electronics; the move from vacuum tubes to solid state.
-* **Applications:** flashers, tone generators, amplifiers, the front-end of countless gadgets.
+* **Builds:**
+  * Exp 9 *Time and Capacitors* — charge a 1,000µF capacitor through a 1K resistor (a button to charge, another to discharge) and time it to ~9V (about 3 seconds), then swap to a 10K resistor. *Expected observation:* the bigger resistor takes ~10× longer, and the voltage climbs fast at first then crawls — it never quite reaches the full supply (the RC curve).
+  * Exp 10 *Transistor Switching* — the "finger test": a 2N2222 lights an LED from the tiny current leaking across a fingertip pressed on two exposed jumpers (brighter with more pressure), then replace the finger with a 500K trimmer to control the brightness smoothly. *Physics:* a minute base current controls a much larger collector current — switching and amplifying at once.
+  * Exp 11 *A Modular Project* — build a two-transistor astable multivibrator that flashes an LED about once a second; then swap the timing capacitors for much smaller values so it oscillates hundreds of times a second and drive the 8-ohm loudspeaker. *Expected observation:* the *same* circuit changes from a visible flash to an audible tone, and smaller capacitors raise the pitch.
+* **Core concepts:** capacitance and charge storage; the RC time constant (T = R × C, "63% of the remaining gap per time constant") and why charging slows as the capacitor fills — the resistor-as-faucet / capacitor-as-balloon analogy; that a transistor uses a small base current (turning on above ~0.7V base-to-emitter) to control a larger one — both **switch** and **amplifier**, but it controls power, it doesn't create it; how an oscillator's *speed* alone decides whether you *see* flashes or *hear* a tone (a flashing light and a musical note differ only in frequency).
+* **Theory of operation (real device):** blinking lights, turn signals, and timers; the "pulsing glow" on old laptop logos; how a tone is generated and shaped; transistors as the building block of effectively every modern device.
+* **History/people:** Michael Faraday (the farad) — the self-taught bookbinder's apprentice whose induction work anchors Classes 5–6; the 1948 Bell Labs transistor (Bardeen, Brattain, Shockley; Nobel 1956) that seeded Silicon Valley and shrank electronics from room-sized vacuum tubes to pocket-sized solid state.
+* **Applications:** flashers, tone generators, amplifiers, and the front-end of countless gadgets.
 * **KidWind tie-in:** the same transistors/capacitors appear in the electronics that condition and use a generator's output.
 * **Journal milestone:** note how changing capacitor values changed the flash rate / pitch, and explain why a transistor is called a "switch" and an "amplifier."
 
 ### Phase 3 — Magnetism, Generation & the KidWind Capstone
 
 **Class 5 — Magnetism and Coils** *(Experiments 25 + 28)*
-* **Builds:** Exp 25 *Magnetism* — wind ~100 turns of wire on a large screwdriver, apply 9V, and pick up a paper clip (an electromagnet). Exp 28 *Making a Coil React* — on a breadboard, drive a coil through a 47Ω resistor with two low-current LEDs and a tactile switch; watch one LED flash when the field builds and the other flash when the field **collapses**.
-* **Prep note:** coils for Exp 28 are **pre-wound (≈100 ft of 22-gauge) before class** so Class 5 does not depend on the longer generator coil made in Class 6 *(see [Appendix A](#appendix-a--source-prompt-and-clarification-qa), Q2)*.
-* **Core concepts:** current creates a magnetic field; coiling and an iron core concentrate the field; inductance and self-inductance ("electrical inertia"); energy stored in a magnetic field; the collapsing-field pulse; why a diode is placed across a relay coil.
-* **Theory of operation (real device):** electromagnets in motors, speakers, and door locks; flyback/spark from switched coils; why ignition coils make sparks.
-* **History/people:** Joseph Henry (electromagnets and self-inductance; the henry); the parallel work of Michael Faraday.
-* **Applications:** every electric motor; relays; transformers; ignition systems.
+* **Builds:**
+  * Exp 25 *Magnetism* — wind ~100 turns of 22-gauge wire onto a steel screwdriver shaft, touch the ends to a 9V battery, and pick up a paper clip; let go of a wire and the clip drops. *Expected observation:* the screwdriver is a magnet only while current flows, and more turns make it stronger. *Safety:* the coil across 9V is near a short — connect only a few seconds at a time (it warms up).
+  * Exp 28 *Making a Coil React* — on the breadboard, run a pushbutton through a **47Ω** resistor into a coil paralleled with a low-current LED. Press the button: the LED flashes briefly, then goes dark even while held (the coil's self-inductance momentarily blocks current at switch-on, then current takes the easy path). Add a **second low-current LED facing the opposite way** and *release* the button: that LED flashes — powered by the collapsing field after the battery is disconnected. *Note:* never run it without the coil, or nothing limits the LED current.
+* **Prep note:** coils for Exp 28 are **pre-wound (≈100 ft) before class** so Class 5 does not depend on the longer generator coil made in Class 6 *(see [Appendix A](#appendix-a--source-prompt-and-clarification-qa), Q2)*. Two teams' coils are wound with thin **26-gauge magnet wire** and one with thick **22-gauge hookup wire** on identical forms — so the magnet-wire coils pack in more turns and set up the wire-type ("more turns → more output") comparison that pays off in Class 6.
+* **Core concepts:** electric current creates a magnetic field; coiling the wire and adding an iron core concentrate it into a usable electromagnet; **self-inductance** — a coil resists a *change* in current ("electrical inertia"), the third basic passive property after resistance (Class 2) and capacitance (Class 4); energy is stored *in the magnetic field* (a flywheel, not a battery) and only while current flows; the collapsing-field pulse when current stops; why a diode sits across a relay coil — to soak up that very pulse (the relay from Class 3).
+* **Theory of operation (real device):** electromagnets in motors, loudspeakers, solenoid door locks, and junkyard crane magnets; the flyback/spark from any switched coil; why an ignition coil makes a spark.
+* **History/people:** Joseph Henry (1797–1878) — the self-educated Albany day-laborer's son who built the first powerful electromagnets, discovered self-inductance (the henry), and later led the new Smithsonian — working in parallel with England's Michael Faraday on the same magnetic ideas.
+* **Applications:** every electric motor; relays and solenoids; transformers; ignition systems.
 * **KidWind tie-in:** the coil is half of every generator — understanding fields and inductance is the bridge to making power next class.
 * **Journal milestone:** explain why the second LED flashes *after* the button is released (collapsing field) and name a device that uses an electromagnet.
 
 **Class 6 — Generating Your Own Power** *(Experiment 26 + Wrap-Up)*
-* **Builds:** Exp 26 *Tabletop Power Generation* — move a neodymium magnet through a ~200-ft coil to induce current and light a low-current LED; observe that motion (and faster motion) makes more electricity. **Optional whole-class build (if time and prep allow):** assemble the single dowel/PVC/plywood spinning-generator rig to light LEDs; otherwise fall back to per-team hand-spun/hand-moved generators *(see [Appendix A](#appendix-a--source-prompt-and-clarification-qa), Q3)*.
-* **Core concepts:** electromagnetic induction — a moving magnet through a coil generates current; the two-way relationship between electricity and magnetism completed; faster motion / more turns / stronger magnet → more output; why nearly all practical power generation uses magnets and coils.
-* **Theory of operation (real device):** generators and alternators; hydro, diesel, and **wind** turbines; bicycle dynamos; hand-crank flashlights.
-* **History/people:** Faraday/Henry and the discovery of induction; the rise of electric power generation.
-* **Applications:** the entire electric grid (except solar); wind power.
-* **KidWind tie-in (capstone focus):** this *is* the KidWind turbine principle — wind spins a magnet-and-coil generator to make electricity. Explicit discussion of how blades → rotation → induced current → useful power.
+* **Builds:**
+  * Exp 26 *Tabletop Power Generation* — shuttle a strong 3/4″ × 1″ neodymium magnet through a ~200-ft coil (wound on a 3/4″ ID PVC tube) with the meter on **AC volts/millivolts**: it reads tenths of a volt only while the magnet moves. Then replace the meter with a low-current LED and move the magnet vigorously to make it flicker — no battery. *Expected observation:* faster motion makes more output; if the LED won't light, flip the magnet end-for-end (it passes current only one way). Compare a thin **magnet-wire** coil against a thick **hookup-wire** coil on identical tubes — the magnet-wire coil packs in more turns and out-generates the other, showing why generators are wound with fine magnet wire.
+  * Per-team **hand generators** are used this term (each team moves a magnet through its own coil); the optional whole-class dowel/PVC/plywood spinning-generator rig is *not* built — and so no drilling is needed *(see [Appendix A](#appendix-a--source-prompt-and-clarification-qa), Q3)*. *Safety:* neodymium magnets pinch hard, can shatter, and wreck phones/cards — handle one at a time on a clear surface.
+* **Core concepts:** electromagnetic induction — a *moving* (changing) magnetic field through a coil pushes electrons through the wire; the two-way relationship between electricity and magnetism completed (current↔magnetism); faster motion / more turns / stronger magnet → more output; the output is AC (current reverses as the magnet enters vs. leaves); a generator is an energy *converter* (muscle/wind → electrical), not a container; why nearly all practical power generation uses magnets and coils.
+* **Theory of operation (real device):** generators and alternators; hydro, diesel, and **wind** turbines (all "spin a magnet past coils" at scale); bicycle dynamos; hand-crank flashlights. *(Older-student extension: a 1N4001 diode + 1,000µF capacitor rectify the AC pulses into a small steady DC.)*
+* **History/people:** in 1831 Michael Faraday (England) and Joseph Henry (America) independently discovered induction — a moving magnet makes current — which grew within decades into the entire electric-power industry.
+* **Applications:** the entire electric grid except solar; wind power.
+* **KidWind tie-in (capstone focus):** this *is* the KidWind turbine principle — wind spins a magnet-and-coil generator to make electricity. Explicit discussion of how blades → rotation → induced current → useful power, and how more turns / stronger magnets / faster spin / load-matching (Ohm's Law) all apply.
 * **Wrap-Up (course close):** students recap the experiments and the physical processes behind them; the instructor connects the whole arc to KidWind and previews what a follow-on Intermediate course (soldering, ICs, 555 timer, logic) could add *(see [Appendix A](#appendix-a--source-prompt-and-clarification-qa), Q8)*.
 * **Journal milestone:** explain how moving the magnet made the LED light, and describe how a wind turbine uses the same idea.
 
