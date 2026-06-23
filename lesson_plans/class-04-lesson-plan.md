@@ -7,7 +7,7 @@
 * **Date:** Tuesday, July 14, 2026, 6:00–8:00 PM
 * **Experiments:** Exp 9 *Time and Capacitors* + Exp 10 *Transistor Switching* + Exp 11 *A Modular Project* (*Make: Electronics, 2nd Ed.*)
 * **Prerequisites from prior classes:** Classes 1–3 (Exp 1–8) — students can use a multimeter (resistance, voltage, current, continuity), know Ohm's Law, can read a basic schematic, and have built on a **breadboard** (the relay oscillator). Students should have read Experiments 9–11 in the [book][01] beforehand.
-* **Source of truth:** This plan implements [`electronics-primer-syllabus.md`](../electronics-primer-syllabus.md), Class 4. Component costs and sourcing live in [`BOM.md`](../BOM.md), never here.
+* **Source of truth:** This plan implements [`syllabus.md`](syllabus.md), Class 4. Component costs and sourcing live in [`BOM.md`](BOM.md), never here.
 
 > **About this plan.** It expands the syllabus's Class 4 outline into a minute-by-minute teaching guide. Class 4 **closes Phase 2** with the course's first circuit that has a purpose — a flasher that speeds up into a sound synthesizer — and the **Phase 2 milestone demonstration ("Light and Sound")**. It weaves in the three lecture threads the syllabus calls for: a plain-language **explainer** (resistor-as-faucet / capacitor-as-balloon; an oscillator so fast you *hear* it), **history & application** (Faraday and the farad; Bardeen/Brattain/Shockley and the 1948 transistor; vacuum tubes → solid state), and a real-device **theory of operation** (blinking timers; how a tone is generated; transistors as the building block of all modern electronics). Like Classes 2–3, it is full — three experiments, the last one complex — so the plan flags exactly where to triage.
 
@@ -50,7 +50,7 @@ Do these before students arrive:
 ## 4. Materials & Components
 
 
-Names and quantities only — see [`BOM.md`](../BOM.md) for costs and sourcing. Only items used *this* class are listed.
+Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Only items used *this* class are listed.
 
 | Item | Per team | Shared / notes |
 |:-----|:--------:|:---------------|

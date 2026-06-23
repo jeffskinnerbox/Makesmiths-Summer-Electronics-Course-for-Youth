@@ -7,7 +7,7 @@
 * **Date:** Tuesday, July 28, 2026, 6:00–8:00 PM
 * **Experiments:** Exp 26 *Tabletop Power Generation* + course Wrap-Up (*Make: Electronics, 2nd Ed.*)
 * **Prerequisites from prior classes:** Classes 1–5 (Exp 1–11, 25, 28) — students can use a multimeter (including **AC volts** and **millivolts**), know Ohm's Law, read a schematic, build on a breadboard, and — most importantly from Class 5 — know that **current creates a magnetic field** and that a coil stores energy in that field. They also saw in Class 2 that a lemon can make electricity chemically. Students should have read Experiment 26 in the [book][01] beforehand.
-* **Source of truth:** This plan implements [`electronics-primer-syllabus.md`](../electronics-primer-syllabus.md), Class 6. Component costs and sourcing live in [`BOM.md`](../BOM.md), never here.
+* **Source of truth:** This plan implements [`syllabus.md`](syllabus.md), Class 6. Component costs and sourcing live in [`BOM.md`](BOM.md), never here.
 
 > **About this plan.** It expands the syllabus's Class 6 outline into a minute-by-minute teaching guide. Class 6 is the **finale of the course** and the **Phase 3 / KidWind capstone**. Students complete the two-way street they started in Class 5: there they made *magnetism from current*; here they make **current from a moving magnet** — electromagnetic induction — and light an LED with electricity they generated, no battery. It carries the three lecture threads the syllabus calls for: a plain-language **explainer** (a moving magnet pushes electrons in a coil; faster motion / more turns / stronger magnet → more output), **history & application** (Faraday and Henry independently discovering induction in 1831; the rise of electric power), and a real-device **theory of operation** (generators and alternators; hydro, diesel, and **wind** turbines; bicycle dynamos and hand-crank flashlights). The class ends with the **"Make Power" milestone**, an explicit KidWind discussion, a recap of the whole six-week arc, and a preview of where the path could go next. Per the syllabus *(Appendix A, Q3)*, which offers a whole-class spinning-generator rig only "if time and prep allow," this course runs the **per-team hand-generator** path: every team shuttles a strong magnet through its own coil to light an LED — no spinning rig and no drilling this year.
 
@@ -52,7 +52,7 @@ Do these before students arrive. **Magnet and coil prep is the make-or-break ite
 ## 4. Materials & Components
 
 
-Names and quantities only — see [`BOM.md`](../BOM.md) for costs and sourcing. Only items used *this* class are listed.
+Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Only items used *this* class are listed.
 
 | Item | Per team | Shared / notes |
 |:-----|:--------:|:---------------|

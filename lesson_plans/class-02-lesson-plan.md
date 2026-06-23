@@ -7,7 +7,7 @@
 * **Date:** Tuesday, June 30, 2026, 6:00–8:00 PM
 * **Experiments:** Exp 3 *Your First Circuit* + Exp 4 *Varying the Voltage* + Exp 5 *Let's Make a Battery* (*Make: Electronics, 2nd Ed.*)
 * **Prerequisites from prior classes:** Class 1 (Exp 1–2) — students have used a multimeter to measure resistance and know the words **voltage, current, resistance** and the water analogy. Students should have read Experiments 3–5 in the [book][01] beforehand.
-* **Source of truth:** This plan implements [`electronics-primer-syllabus.md`](../electronics-primer-syllabus.md), Class 2. Component costs and sourcing live in [`BOM.md`](../BOM.md), never here.
+* **Source of truth:** This plan implements [`syllabus.md`](syllabus.md), Class 2. Component costs and sourcing live in [`BOM.md`](BOM.md), never here.
 
 > **About this plan.** It expands the syllabus's Class 2 outline into a minute-by-minute teaching guide for a volunteer instructor. It weaves in the three lecture-note threads the syllabus calls for: a plain-language **explainer** (resistor-as-restriction, the brightness ladder), **history & application** (Ohm, Volta's pile, Watt, the positive/negative naming convention), and a real-device **theory of operation** (how a chemical battery liberates electrons; how a dimmer works). **This is the busiest class of the course** — three experiments in one session — so the plan tells you exactly where to triage if time runs short.
 
@@ -50,7 +50,7 @@ Do these before students arrive:
 ## 4. Materials & Components
 
 
-Names and quantities only — see [`BOM.md`](../BOM.md) for costs and sourcing. Only items used *this* class are listed.
+Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Only items used *this* class are listed.
 
 | Item | Per team | Shared / notes |
 |:-----|:--------:|:---------------|

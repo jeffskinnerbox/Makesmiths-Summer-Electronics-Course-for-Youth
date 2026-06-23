@@ -7,7 +7,7 @@
 * **Date:** Tuesday, July 7, 2026, 6:00–8:00 PM
 * **Experiments:** Exp 6 *Very Simple Switching* + Exp 7 *Investigating a Relay* + Exp 8 *A Relay Oscillator* (*Make: Electronics, 2nd Ed.*)
 * **Prerequisites from prior classes:** Classes 1–2 (Exp 1–5) — students can use a multimeter (resistance, voltage, current, and now **continuity**), know Ohm's Law, and have built LED circuits with alligator-clip test leads. Students should have read Experiments 6–8 in the [book][01] beforehand.
-* **Source of truth:** This plan implements [`electronics-primer-syllabus.md`](../electronics-primer-syllabus.md), Class 3. Component costs and sourcing live in [`BOM.md`](../BOM.md), never here.
+* **Source of truth:** This plan implements [`syllabus.md`](syllabus.md), Class 3. Component costs and sourcing live in [`BOM.md`](BOM.md), never here.
 
 > **About this plan.** It expands the syllabus's Class 3 outline into a minute-by-minute teaching guide. Class 3 opens **Phase 2 (Controlling Electricity)** and carries two brand-new literacy skills the book introduces here: **reading a schematic** and **using a solderless breadboard**. It weaves in the three lecture threads the syllabus calls for: a plain-language **explainer** (a relay is a switch that electricity flips by itself; feedback → oscillation), **history & application** (Scribner's jack-knife switch and the telephone switchboard; the relay in telegraph and early computing), and a real-device **theory of operation** (car starter relay; electromechanical buzzer/doorbell). Like Class 2, it is full — three experiments plus two new skills — so the plan flags exactly where to triage.
 
@@ -50,7 +50,7 @@ Do these before students arrive:
 ## 4. Materials & Components
 
 
-Names and quantities only — see [`BOM.md`](../BOM.md) for costs and sourcing. Only items used *this* class are listed.
+Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Only items used *this* class are listed.
 
 | Item | Per team | Shared / notes |
 |:-----|:--------:|:---------------|

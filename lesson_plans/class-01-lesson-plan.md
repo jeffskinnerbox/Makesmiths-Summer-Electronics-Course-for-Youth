@@ -7,7 +7,7 @@
 * **Date:** Tuesday, June 23, 2026, 6:00–8:00 PM
 * **Experiments:** Exp 1 *Taste the Electricity* + Exp 2 *Let's Abuse a Battery!* (*Make: Electronics, 2nd Ed.*)
 * **Prerequisites from prior classes:** None — this is the first class. Students should have read Experiments 1–2 in the [book][01] beforehand (not required to follow along).
-* **Source of truth:** This plan implements [`electronics-primer-syllabus.md`](../electronics-primer-syllabus.md), Class 1. Component costs and sourcing live in [`BOM.md`](../BOM.md), never here.
+* **Source of truth:** This plan implements [`syllabus.md`](syllabus.md), Class 1. Component costs and sourcing live in [`BOM.md`](BOM.md), never here.
 
 > **About this plan.** It expands the syllabus's Class 1 outline into a minute-by-minute teaching guide for a volunteer instructor. It weaves in three lecture-note threads the syllabus calls for: a plain-language **explainer** (the water analogy), **history & application** (Ohm, Volta, Ampère), and a real-device **theory of operation** (the household fuse). You do not need to be a teacher to run this — say what's in the talking points, set up each build, and let teams discover.
 
@@ -50,7 +50,7 @@ Do these before students arrive:
 ## 4. Materials & Components
 
 
-Names and quantities only — see [`BOM.md`](../BOM.md) for costs and sourcing. Only items used *this* class are listed.
+Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Only items used *this* class are listed.
 
 | Item | Per team | Shared / notes |
 |:-----|:--------:|:---------------|

@@ -7,7 +7,7 @@
 * **Date:** Tuesday, July 21, 2026, 6:00–8:00 PM
 * **Experiments:** Exp 25 *Magnetism* + Exp 28 *Making a Coil React* (*Make: Electronics, 2nd Ed.*)
 * **Prerequisites from prior classes:** Classes 1–4 (Exp 1–11) — students can use a multimeter, know Ohm's Law, read a basic schematic, build on a **breadboard**, and have met resistors, LEDs, switches, relays, capacitors, and transistors. Crucially, they know from Class 3 that a **relay** uses a coil to switch contacts, and from Class 4 that a **capacitor** stores energy and charges on an RC curve. Students should have read Experiments 25 and 28 in the [book][01] beforehand.
-* **Source of truth:** This plan implements [`electronics-primer-syllabus.md`](../electronics-primer-syllabus.md), Class 5. Component costs and sourcing live in [`BOM.md`](../BOM.md), never here.
+* **Source of truth:** This plan implements [`syllabus.md`](syllabus.md), Class 5. Component costs and sourcing live in [`BOM.md`](BOM.md), never here.
 
 > **About this plan.** It expands the syllabus's Class 5 outline into a minute-by-minute teaching guide. Class 5 **opens Phase 3** and crosses the bridge the whole course has been building toward: **electricity and magnetism are the same two-way street.** Students wind an electromagnet that picks up a paper clip (Exp 25), then build a breadboard circuit where one LED flashes as a coil's magnetic field *builds* and a second LED flashes as that field *collapses* (Exp 28) — seeing **self-inductance** ("electrical inertia") and the **collapsing-field pulse** with their own eyes. It weaves in the three lecture threads the syllabus calls for: a plain-language **explainer** (current makes magnetism; a coil is a flywheel for current; energy is stored *in the field*), **history & application** (Joseph Henry, the self-taught American who discovered self-inductance and got the *henry* named after him, working in parallel with Michael Faraday), and a real-device **theory of operation** (electromagnets in motors, speakers, and door locks; the flyback spark from a switched coil; why a diode sits across a relay coil — the very thing they saw inside the relay in Class 3). This class sets up Class 6, where the coil becomes half of a generator.
 
@@ -52,7 +52,7 @@ Do these before students arrive:
 ## 4. Materials & Components
 
 
-Names and quantities only — see [`BOM.md`](../BOM.md) for costs and sourcing. Only items used *this* class are listed.
+Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Only items used *this* class are listed.
 
 | Item | Per team | Shared / notes |
 |:-----|:--------:|:---------------|
