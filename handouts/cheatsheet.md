@@ -1,4 +1,3 @@
-
 # ELL-W101 Class-01 Cheat Sheet
 
 ## The Water vs Electricity Analogy
@@ -10,8 +9,6 @@
 | narrowing / roughness | Hydraulic Resistance |  Resistance or **R** | Head Loss / Ohms |
 | rate of doing work | Hydraulic Power |  Power or **P** | Hydraulic Power / Watts |
 | capacity to do work | Hydraulic Energy |  Electrical Energy or **J** | Joules / Joules |
-|.|.|.|.|
-| Nature's Law | pressure drop = flow rate × resistance<br>ΔP = Q × R |  voltage = current × resistance<br>V = I × R |  |
 
 
 ## Nature's Law
@@ -21,8 +18,9 @@
 | pressure drop = flow rate × resistance | voltage = current × resistance |  ΔP = Q × R | V = I × R |
 
 
->**NOTE:** These analogy breaks down with Alternating Current (AC)<br>
-t are some
+>**NOTE:** These analogy breaks down with Alternating Current (AC)
+<div style="page-break-after: always;"></div>
+
 ## Definitions
 **Cheatsheet** - A cheat sheet (or crib sheet) is a concise set of notes designed for quick reference.
 It condenses complex information, such as formulas and key concepts into a scannable,

@@ -1,5 +1,8 @@
 
-# Voltage Multiplier
+# Electromagic
+This to build in the hope of creating awe & wonderment!
+
+## Voltage Multiplier
 * [The Simplest Voltage Booster? - Charge Pumps Tutorial](https://www.youtube.com/watch?v=dMSOaJuzrdY&t=30s)
 * [Let's build a voltage multiplier!](https://www.youtube.com/watch?v=4alV5LzHLE4&t=40s)
 * [Making 500,000 VOLT ARC with Marx Generator](https://www.youtube.com/watch?v=dje7uhyW23o)
@@ -31,8 +34,6 @@ A ground loop is an unwanted circular path in an electrical circuit that occurs 
 ## What is the Speed of Electricity?
 * [How Electricity Actually Works](https://www.youtube.com/watch?v=oI_X2cMHNe0)
 
-speed of electron 10.0E6 m/sec
-drift velocity of electron is <0.1 mm/sec
 
 ## Conservation of Electric Charge
 

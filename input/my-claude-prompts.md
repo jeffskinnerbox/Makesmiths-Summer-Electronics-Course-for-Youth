@@ -122,3 +122,17 @@ Using the /explainer skill, check the facts I stated and give me a proper answer
 Put you answer in @explainers/why-do-wires-heat-up.md
 
 ---
+
+### 9th Claude Code Prompt
+For each of the subdirectories in this project, create README.md files for the subdirectories
+@communications, @handouts, @lesson_plans, @explainers, and @input.
+Within these README.md file, describe the purpose of of the subdirectory and purpose of each of the file in it.
+
+---
+
+### 10th Claude Code Prompt
+Create a @README.md file that summarizes the course in 500 words or less.
+Then for each of the subdirectories in the project root directory,
+give a description of the purpose (stated first) and contents of the subdirectory in 100 words or less.
+
+---
