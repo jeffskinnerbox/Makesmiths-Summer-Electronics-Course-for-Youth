@@ -26,7 +26,7 @@ This is the first class of Phase 2, where the course shifts from *measuring and 
 
 After this class, students will be able to:
 
-* Read a basic schematic — identify the symbols for a battery, resistor, LED, switch, pushbutton, and relay, and tell connected wires (dot) from crossing wires (no dot).
+* Read a basic schematic — identify the symbols for a battery, resistor, LED, switch, push-button, and relay, and tell connected wires (dot) from crossing wires (no dot).
 * Wire two SPDT switches so either switch toggles an LED, and explain "poles" and "throws."
 * Use the meter's **continuity** mode to map which contacts close inside a relay when its coil is energized.
 * Build a working circuit on a **solderless breadboard** for the first time, understanding the power buses.
@@ -42,7 +42,7 @@ Do these before students arrive:
 * **30 min before — Pre-strip a handful of jumper wires** in two colors (red for positive, blue/black for negative) for the breadboard build, plus a few spares. First-time breadboarders lose a lot of time stripping wire — pre-made jumpers keep momentum.
 * **25 min before — Pre-open one relay yourself** (shave the plastic shell with a utility knife) so every team can see the coil, lever, and contacts without each team cutting their own. Keep it as a circulating "show" specimen.
 * **20 min before — Lay out per-team workstations.** Per team: multimeter; 9-volt battery + battery connector; **2 toggle switches (SPDT or DPDT)**; **2 DPDT 9V relays** (one to investigate, one to keep intact for the oscillator); **tactile (push) switch**; 2 generic LEDs; 470 Ω resistor; **1,000 µF capacitor**; **solderless breadboard**; pre-stripped jumpers; ~5 alligator test leads; screwdriver, pliers, wire strippers/cutters.
-* **15 min before — Draw the two reference diagrams** on the board: (1) the schematic symbol key (battery, resistor, LED, switch, pushbutton, relay, "dot = connected / cross = not connected"), and (2) a sketch of the breadboard showing the two power **buses** down the sides (red = +, blue = −) and that rows connect in short strips.
+* **15 min before — Draw the two reference diagrams** on the board: (1) the schematic symbol key (battery, resistor, LED, switch, push-button, relay, "dot = connected / cross = not connected"), and (2) a sketch of the breadboard showing the two power **buses** down the sides (red = +, blue = −) and that rows connect in short strips.
 * **10 min before — Stage the relay-opening station** with a utility knife and cutting mat — **adult-supervised only.**
 * **Have ready as spares:** extra relays (cutting one open can wreck it), extra LEDs, pre-stripped jumpers, a spare breadboard.
 

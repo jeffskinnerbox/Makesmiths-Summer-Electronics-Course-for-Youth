@@ -136,3 +136,21 @@ Then for each of the subdirectories in the project root directory,
 give a description of the purpose (stated first) and contents of the subdirectory in 100 words or less.
 
 ---
+
+### 11th Claude Code Prompt
+I plan to do Experiment 5 (Let’s Make a Battery) of @input/Make-Electronics-2nd-Edition.pdf.
+Give me step-by-step instructions for building an testing the lemon battery.
+I'm also using these sources
+[Build a Lemon Battery](https://www.acs.org/content/dam/acsorg/education/outreach/kidszone/kids-zone-build-a-lemon-battery.pdf),
+and [Simple Lemon Battery](https://researchparent.com/simple-lemon-battery/).
+I plan to use two lemon, each cut in half, making a 4 cell battery to light a singe red LED.
+I plan to use zinc nails and 12 AWG copper wire for cathode & anode.
+I plan to use [this Red LED](https://www.amazon.com/dp/B01AUI4WC8).
+
+Describe how a lemon battery works, the importance of using copper & zinc, and the use of a low current LED.
+Discuss the forward voltage of the red LED and how it must be overcome via multiple battery cells.
+
+Using the /explainer skill, check the facts I stated and conclude with a table of materials needed, and step-by-step assembly instructions.
+Put you answer in @explainers/build-a-lemon-battery.md
+
+---

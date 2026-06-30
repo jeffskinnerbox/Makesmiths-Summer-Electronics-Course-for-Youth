@@ -12,3 +12,4 @@ narrative answer), and are *not* bound by the appendix convention used by the sy
 | `why-do-wires-heat-up.md` | The mechanism that heats a current-carrying wire, and how heat relates to wire size and current (and whether that differs for DC vs AC). |
 | `where-does-electricity-flow-in-a-wire.md` | Why DC fills a wire's whole cross-section while AC crowds toward the surface — the "skin effect" and how deep it reaches. |
 | `how-fast-is-electricity.md` | Reconciles the very fast random electron speed, the very slow drift velocity, and the near-instant propagation of the electrical signal when voltage is applied. |
+| `build-a-lemon-battery.md` | How a lemon battery works, why it needs two different metals (copper + zinc), why a red LED's forward voltage forces cells in series, and why a low-current LED matters — with a materials table and build/test steps for Experiment 5. |

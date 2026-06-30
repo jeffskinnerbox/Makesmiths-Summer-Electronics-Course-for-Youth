@@ -54,12 +54,12 @@ course terminology every skill uses.
 component packs), `my-bom.md` (the unpriced BOM source), `my-claude-prompts.md` (the prompt playbook driving
 each document), and `Make-Electronics-2nd-Edition.pdf` (the course's primary text).
 
-### `lesson_plans/`
+### `lecture_notes/`
 **Purpose:** the generated course deliverables — the heart of the repository.<br>
 **Contents:** `syllabus.md` (course-level overview, schedule, and assessment), `BOM.md` (the bill of materials and single source of truth
-for cost and sourcing), and the six per-class plans `class-01-lesson-plan.md` … `class-06-lesson-plan.md`,
-each detailing one 2-hour session's experiments and flow. These documents must agree on class numbering,
-titles, experiments, and components.
+for cost and sourcing), and the six per-class files `class-01-lecture-notes.md` … `class-06-lecture-notes.md`,
+each combining one 2-hour session's lesson plan (experiments and flow) with its lecture notes. These
+documents must agree on class numbering, titles, experiments, and components.
 
 ### `handouts/`
 **Purpose:** student-facing materials printed and handed out at the bench.<br>
@@ -68,9 +68,9 @@ water-vs-electricity analogy mapping pressure and flow to voltage and current.
 
 ### `explainers/`
 **Purpose:** short supplementary "but *why*?" reading that deepens intuition beyond the experiments.<br>
-**Contents:** four standalone pieces — `war-of-the-currents.md`, `why-do-wires-heat-up.md`,
-`where-does-electricity-flow-in-a-wire.md`, and `how-fast-is-electricity.md` — each posing a single question
-and answering it in plain English.
+**Contents:** five standalone pieces — `war-of-the-currents.md`, `why-do-wires-heat-up.md`,
+`where-does-electricity-flow-in-a-wire.md`, `how-fast-is-electricity.md`, and `build-a-lemon-battery.md` —
+each posing a single question (or build) and answering it in plain English.
 
 ### `communications/`
 **Purpose:** outreach to parents and students, separate from the in-class teaching materials.

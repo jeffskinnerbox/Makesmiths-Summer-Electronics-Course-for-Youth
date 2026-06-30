@@ -135,4 +135,4 @@ of them a trick to put more copper where the current actually wants to be: near 
 
 
 [01]:https://en.wikipedia.org/wiki/Skin_effect
-[02]:https://www.allaboutcircuits.com/technical-articles/learn-about-the-physics-behind-the-skin-effect-phenomenon/
+[02]:https://www.allaboutcircuits.com/textbook/alternating-current/chpt-3/ac-resistance-skin-effect/

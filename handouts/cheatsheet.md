@@ -1,4 +1,4 @@
-# ELL-W101 Class-01 Cheat Sheet
+# ELL-W101 Class-02 Cheat Sheet
 
 ## The Water vs Electricity Analogy
 
@@ -16,6 +16,15 @@
 | Water | Electricity | Water Law | Electrical Law |
 |:------:|:------:|:------:|:-------:|
 | pressure drop = flow rate × resistance | voltage = current × resistance |  ΔP = Q × R | V = I × R |
+
+
+<h1>
+<p align="center" style="font-size: 24px;">
+Ohm's Law<br>
+voltage = current × resistance<br>
+V = I x R
+</h1>
+</p>
 
 
 >**NOTE:** These analogy breaks down with Alternating Current (AC)

@@ -282,16 +282,20 @@ Give feedback as questions, not scores: *"What would happen to the reading if yo
 
 
 ## 10. Resources & References
+Curated list of materials
 
-**Course text (students should have read Exp 1–2):**
-
-* *Make: Electronics, 2nd Edition*, Charles Platt — [print][01] / free [PDF][02]. Class 1 covers Experiments 1–2.
+**Course text (it would be great if the students should have read Experiments 1–2):**
+*Make: Electronics, 2nd Edition*, Charles Platt — [print][01] / free [PDF][02].
+Class 1 covers Experiments 1–2.
 
 **Instructor prep / background:**
 * [Circuit Canvas][09] — makes it quick and easy to draw schematics and wiring diagrams.
 * [The Electronics Club][12] — friendly entry-level explanations of voltage, current, resistance.
 * [Electronics Tutorials][13] — a little more theory if you want depth on Ohms/Volts/Amps before class.
 * [Electrical Engineering Basics][03]
+* [An intuitive approach for understanding electricity](https://www.youtube.com/watch?v=X_crwFuPht4) - the water analogy is only sorta/sometimes true
+* [Primer: core concepts in electronic circuits](https://lcamtuf.substack.com/p/primer-core-concepts-in-electronic)
+* [Core concepts #2: impedance is complex](https://lcamtuf.substack.com/p/impedance-part-2-why-do-lcr-meters)
 
 **Student-facing enrichment (optional, after class):**
 * [Best Explanation of Alternating Current Vs Direct Current](https://www.youtube.com/watch?v=CCHGatqIkAI&t=138s)
@@ -299,12 +303,16 @@ Give feedback as questions, not scores: *"What would happen to the reading if yo
 * [An intuitive approach for understanding electricity](https://www.youtube.com/watch?v=X_crwFuPht4)
 * [Understanding the basics of electricity by thinking of it as water](https://www.freeingenergy.com/understanding-the-basics-of-electricity-by-thinking-of-it-as-water/)
 * [Voltage, Current & Resistance: Electricity Explained Finally! (The Water Analogy)](https://www.youtube.com/watch?v=3qz1SVk1sRc)
-* [Every Basic Electronic Component Explained in 21 Minutes](https://www.youtube.com/watch?v=HGNKhLActDo) — good overview as the course builds; resistors and fuses appear early.
+* [Every Basic Electronic Component Explained in 21 Minutes](https://www.youtube.com/watch?v=HGNKhLActDo)
 * [Shock and Awe: The Story of Electricity -- Jim Al-Khalili BBC Horizon](https://www.youtube.com/watch?v=Gtp51eZkwoI)
 * [Zap, Crackle and Pop: The Story of Electricity](https://www.youtube.com/watch?v=Ch6jti8i6u4)
+* [Capacitors Are Gaps! How Does That Work?!](https://www.youtube.com/watch?v=zYRx6Zub3cA)
 
-For the Mathematically prepared:
+For the Physics & Mathematically prepared:
+* [lcamtuf’s Electronics curriculum](https://lcamtuf.substack.com/p/electronics-curriculum) - In book form, check out *The Secret Life of Circuits* by Michal Zalewski
 * [Maxwell's Equations - The Ultimate Beginner's Guide](https://www.youtube.com/watch?v=F3QHUvr8d8I)
+* [How Can One Object Affect Another Through Empty Space? | Maxwell’s Equations: Part 1](https://www.youtube.com/watch?v=YqxrlunKCaU)
+* [How Maxwell Completed Electromagnetism | Maxwell’s Equations: Part 2](https://www.youtube.com/watch?v=wt1KJtD4Qh8)
 * [How Divergence and Curl Were Invented](https://www.youtube.com/watch?v=11QvV18JGQM)
 * [Circuit Analysis Using Kirchhoff's Laws](https://www.youtube.com/watch?v=kZvhNDmLjEU)
 

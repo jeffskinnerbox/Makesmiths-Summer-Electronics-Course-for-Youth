@@ -108,7 +108,7 @@ This can automated by using the skills listed below:
 | Skill | Prompt & Input File | Output File |
 |:------:|:------:|:------:|
 | `/syllabus_generator` | `my-vision.md` | `electronics-primer-syllabus.md` |
-| `/lesson_plan_generator` | `my-vision.md`, `electronics-primer-syllabus.md`, "Make: Electronics, 2nd Edition"  | `lecture_notes/class-00-lesson-plan.md` |
+| `/lesson_plan_generator` | `my-vision.md`, `electronics-primer-syllabus.md`, "Make: Electronics, 2nd Edition"  | `lecture_notes/class-00-lecture-notes.md` |
 | `/explainer` | "Make: Electronics, 2nd Edition" | `lecture_notes/class-00-lecture-notes.md` |
 | `/history_and_application` | "Make: Electronics, 2nd Edition"  | `lecture_notes/class-00-lecture-notes.md` |
 | `/theory_of_operation` | "Make: Electronics, 2nd Edition"  | `lecture_notes/class-00-lecture-notes.md` |
