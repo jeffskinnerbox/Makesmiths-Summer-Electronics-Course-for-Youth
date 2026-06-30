@@ -11,14 +11,14 @@ If a student would like to work on experiments at home,
 they can purchase their own kit from Amazon for $100 to $160.
 (This home version of Kit [Pack 1][09] mirrors Experiments 1–11 in Chapters 1 & 2 of the [book][02]
 and can include a digital multi-meter and batteries. Note: the shared class kits are the Standard pack —
-Makersmiths supplies the multimeters and batteries separately; see `BOM.md`.)
+Makersmiths supplies the multimeters and batteries separately; see `lesson_plans/BOM.md`.)
 
 ## Electronics Primer Course at Makersmiths
 I'm preparing to teach a makerspace course for 12 to 15 year old students.
 This course is a primer for electricity & electronics concepts.
 I view this Electronics Primer course as first part of what could be a three part course outlined in `my-notes.md`.
 At this time, only this course is being planned & developed.
-The syllabus for this Electronics Primer course is documented in `electronics-primer-syllabus.md`.
+The syllabus for this Electronics Primer course is documented in `lesson_plans/syllabus.md`.
 
 The purpose of the course is to give the students some intuition
 about how electricity works and how it can be made useful.
@@ -107,11 +107,12 @@ This can automated by using the skills listed below:
 
 | Skill | Prompt & Input File | Output File |
 |:------:|:------:|:------:|
-| `/syllabus_generator` | `my-vision.md` | `electronics-primer-syllabus.md` |
-| `/lesson_plan_generator` | `my-vision.md`, `electronics-primer-syllabus.md`, "Make: Electronics, 2nd Edition"  | `lecture_notes/class-00-lecture-notes.md` |
-| `/explainer` | "Make: Electronics, 2nd Edition" | `lecture_notes/class-00-lecture-notes.md` |
-| `/history_and_application` | "Make: Electronics, 2nd Edition"  | `lecture_notes/class-00-lecture-notes.md` |
-| `/theory_of_operation` | "Make: Electronics, 2nd Edition"  | `lecture_notes/class-00-lecture-notes.md` |
+| `/syllabus_generator` | `my-vision.md` | `lesson_plans/syllabus.md` |
+| `/bill_of_materials_generator` | `my-bom.md` | `lesson_plans/BOM.md` |
+| `/lesson_plan_generator` | `my-vision.md`, `lesson_plans/syllabus.md`, "Make: Electronics, 2nd Edition"  | `lesson_plans/class-00-lesson-plan.md` |
+| `/explainer` | "Make: Electronics, 2nd Edition" | `lesson_plans/class-00-lesson-plan.md` |
+| `/history_and_application` | "Make: Electronics, 2nd Edition"  | `lesson_plans/class-00-lesson-plan.md` |
+| `/theory_of_operation` | "Make: Electronics, 2nd Edition"  | `lesson_plans/class-00-lesson-plan.md` |
 
 
 Also use the skill `/grill-me` to ask me any clarifying questions concerning anything AI created.

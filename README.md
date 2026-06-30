@@ -54,10 +54,10 @@ course terminology every skill uses.
 component packs), `my-bom.md` (the unpriced BOM source), `my-claude-prompts.md` (the prompt playbook driving
 each document), and `Make-Electronics-2nd-Edition.pdf` (the course's primary text).
 
-### `lecture_notes/`
+### `lesson_plans/`
 **Purpose:** the generated course deliverables — the heart of the repository.<br>
 **Contents:** `syllabus.md` (course-level overview, schedule, and assessment), `BOM.md` (the bill of materials and single source of truth
-for cost and sourcing), and the six per-class files `class-01-lecture-notes.md` … `class-06-lecture-notes.md`,
+for cost and sourcing), and the six per-class files `class-01-lesson-plan.md` … `class-06-lesson-plan.md`,
 each combining one 2-hour session's lesson plan (experiments and flow) with its lecture notes. These
 documents must agree on class numbering, titles, experiments, and components.
 
