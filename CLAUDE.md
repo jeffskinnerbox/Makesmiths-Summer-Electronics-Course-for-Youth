@@ -14,7 +14,7 @@ Markdown course documents with the skills in `.claude/skills/`, not writing or r
 
 Documents are generated from a single source-of-vision and must stay mutually consistent. The chain is:
 
-```
+```text
 input/my-vision.md  (the Specification — instructor's intent)
         │
         ├─(/syllabus_generator)──────────────▶ lesson_plans/syllabus.md

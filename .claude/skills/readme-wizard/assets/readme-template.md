@@ -18,7 +18,7 @@
 
 ## Project Structure
 
-```
+```text
 {{FILE_TREE}}
 ```
 

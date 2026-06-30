@@ -58,7 +58,7 @@ Record all answers — they constrain every subsequent step.
 
 Present the proposed theme groups in a clear table or list:
 
-```
+```text
 Theme: <Title>
 Description: <One-sentence theme statement>
 Sources: <file1.md, file2.md, ...>
@@ -72,7 +72,7 @@ Ask the user:
 
 If there is **leftover content** (content that doesn't fit any theme), present it clearly:
 
-```
+```text
 Leftover content (no matching theme):
 - [brief description of content] from <filename>
 - ...
