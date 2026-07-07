@@ -65,6 +65,30 @@ Nichrome wire is the core heating element in toasters, hair dryers, and space he
 
 ----
 
+## Nothing Yet - Class 3
+
+----
+
+## Capacitance Multiplier - Class 4
+Show some magic with OpAmps.
+
+* [Cursed circuits #5: capacitance multiplier](https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier)
+
+----
+
+## Voltage Multiplier
+* [The Simplest Voltage Booster? * Charge Pumps Tutorial](https://www.youtube.com/watch?v=dMSOaJuzrdY&t=30s)
+* [Let's build a voltage multiplier!](https://www.youtube.com/watch?v=4alV5LzHLE4&t=40s)
+* [Making 500,000 VOLT ARC with Marx Generator](https://www.youtube.com/watch?v=dje7uhyW23o)
+* [Voltage multiplier 20* using capacitor and diode](https://youtube.com/shorts/mjGyeU6y-NE?si=QxikKWe3Cq0yq9Qj)
+* [Voltage Multipliers - Half Wave Voltage Doubler Circuit](https://www.youtube.com/watch?v=yfykYXdAUNY&t=1s)
+* [Voltage Multiplier Circuit using Capacitor and Diode](https://www.youtube.com/watch?v=HV5gZRhytY4)
+
+* [How Electric Current Works Explained Simply](https://www.youtube.com/watch?v=ltvHdF2TO8w)
+* [eletro_logic](https://www.youtube.com/@electro_logic)
+
+----
+
 ## Battery Train
 * [The Brilliant Science Behind the Homopolar Battery Train](https://www.youtube.com/watch?v=1TAMpaZRYqY)
 * [This Battery Train Goes UP, Not Sideways!](https://www.youtube.com/watch?v=zpcZTd6ViUo)
@@ -81,18 +105,6 @@ Suggest websites that don't just give you coding, but also teaches/explains of w
 The website needs to be suitable for a 12 to 15 year old who already has some elementary coding skills.
 The focus should be on algorithms and system design.
 
-----
-
-## Voltage Multiplier
-* [The Simplest Voltage Booster? * Charge Pumps Tutorial](https://www.youtube.com/watch?v=dMSOaJuzrdY&t=30s)
-* [Let's build a voltage multiplier!](https://www.youtube.com/watch?v=4alV5LzHLE4&t=40s)
-* [Making 500,000 VOLT ARC with Marx Generator](https://www.youtube.com/watch?v=dje7uhyW23o)
-* [Voltage multiplier 20* using capacitor and diode](https://youtube.com/shorts/mjGyeU6y-NE?si=QxikKWe3Cq0yq9Qj)
-* [Voltage Multipliers - Half Wave Voltage Doubler Circuit](https://www.youtube.com/watch?v=yfykYXdAUNY&t=1s)
-* [Voltage Multiplier Circuit using Capacitor and Diode](https://www.youtube.com/watch?v=HV5gZRhytY4)
-
-* [How Electric Current Works Explained Simply](https://www.youtube.com/watch?v=ltvHdF2TO8w)
-* [eletro_logic](https://www.youtube.com/@electro_logic)
 
 ----
 

@@ -298,6 +298,7 @@ Class 1 covers Experiments 1–2.
 * [Core concepts #2: impedance is complex](https://lcamtuf.substack.com/p/impedance-part-2-why-do-lcr-meters)
 
 **Student-facing enrichment (optional, after class):**
+* [Beginner Electronics](https://www.youtube.com/playlist?list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs)
 * [Best Explanation of Alternating Current Vs Direct Current](https://www.youtube.com/watch?v=CCHGatqIkAI&t=138s)
 * [Electricity Water Analogy](https://www.mathsisfun.com/physics/electricity-water-analogy.html)
 * [An intuitive approach for understanding electricity](https://www.youtube.com/watch?v=X_crwFuPht4)
@@ -316,12 +317,15 @@ For the Physics & Mathematically prepared:
 * [How Divergence and Curl Were Invented](https://www.youtube.com/watch?v=11QvV18JGQM)
 * [Circuit Analysis Using Kirchhoff's Laws](https://www.youtube.com/watch?v=kZvhNDmLjEU)
 
-**Course context:**
-* [Makersmiths][05] — the makerspace hosting the course.
-* [KidWind][04] — the wind-energy program this course connects to; today's volts/amps/ohms underlie every turbine generator.
+Breadboard - Help or Hindrance?
+* [Stop Trusting Breadboards! Here’s Why!](https://www.youtube.com/watch?v=zkjdM56bA2M)
 
+**Course context:**
+* [Makersmiths][05] — the makerspace hosting this course.
+* [KidWind][04] — this course help prepare students for the wind-energy projects - volts/amps/ohms underlie every turbine generator.
 
 ---
+
 
 
 [01]:https://www.amazon.com/Make-Electronics-Learning-Through-Discovery/dp/1680450263/

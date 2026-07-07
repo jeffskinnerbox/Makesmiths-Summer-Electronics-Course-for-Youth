@@ -16,14 +16,10 @@
 
 
 ## 1. Class Overview
-
-
 This is the first class of Phase 2, where the course shifts from *measuring and predicting* current to *controlling* it. Students start by reading and building from real schematics — wiring two switches so that either one turns an LED on or off (the same circuit as a stairway light). They then investigate a relay — a switch that an electromagnet flips automatically — using the meter's continuity mode to discover what closes inside, and (adult-supervised) cutting one open to see the coil and contacts. Finally they graduate from alligator clips to the **solderless breadboard** for the first time, building a relay circuit and then modifying it so the relay switches *itself* on and off — an oscillator that buzzes and clicks. By the end, students can read a basic schematic, explain how a small signal controls a large one through a relay, and explain how feedback makes an oscillator run on its own. This sets up Class 4, where the same breadboard, plus capacitors and transistors, turns flashing into sound.
 
 
 ## 2. Learning Goals
-
-
 After this class, students will be able to:
 
 * Read a basic schematic — identify the symbols for a battery, resistor, LED, switch, push-button, and relay, and tell connected wires (dot) from crossing wires (no dot).
@@ -86,8 +82,6 @@ Follows the standard 2-hour session from the syllabus. **This class is full** (t
 
 
 ### 5a. Review & Q&A — 0:00–0:10 (10 min)
-
-
 **What to do**
 
 * Recap Phase 1 in one question: *"What's Ohm's Law, and what does it tell you?"* (V = I × R; it predicts current/resistor values.) If the Phase 1 "Explain the LED" milestone got squeezed at the end of Class 2, run it now — 60 seconds per team.
@@ -98,8 +92,6 @@ Follows the standard 2-hour session from the syllabus. **This class is full** (t
 
 
 ### 5b. Mini-Lecture (story + reading schematics) — 0:10–0:30 (20 min)
-
-
 Keep to 20 minutes. Two jobs: hook interest with the relay story, and teach enough schematic-reading to build from a diagram.
 
 **Key concept 1 — Reading a schematic (the new literacy skill).** "Up to now you built from pictures of alligator clips. Real electronics uses schematics — a cleaner map. The map doesn't tell you *where* to put parts, only *how they connect*." Point at the symbol key on the board:
@@ -122,16 +114,12 @@ Keep to 20 minutes. Two jobs: hook interest with the relay story, and teach enou
 
 
 ### 5c. Guided Builds — 0:30–1:30 (60 min)
-
-
 Three experiments, ~60 minutes. Suggested split: **Exp 6 ~15 min · Exp 7 ~22 min · Exp 8 ~23 min.** Exp 8 (first breadboard) is the marquee build — protect its time. Helpers circulate and **ask questions rather than fix.**
 
 ---
 
 
 #### Experiment 6 — *Very Simple Switching* (≈15 min)
-
-
 **Step 1 — Build from the schematic.** Hand each team the two-switch schematic (book Fig. 2-37/2-38). Using alligator leads, wire: 9V → switch 1 → switch 2 → 470 Ω → LED → back to battery, with the two SPDT switches cross-wired so either can break or complete the path. **Long lead of the LED toward positive.**
 
 **Step 2 — Discover the stairway behavior.** Flip either switch. Whatever state the LED is in, *either* switch changes it. Ask: *"This is the circuit for a light at the top and bottom of a staircase — why does that need two switches that each work?"*

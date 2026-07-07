@@ -1,6 +1,4 @@
 # Building and Testing a Lemon Battery
-
-
 How do you turn a piece of fruit into a battery that lights an LED? This piece backs the *Make: Electronics*
 [Experiment 5, *Let's Make a Battery*][01] (Class 2 of the course), checks the specific build you have in
 mind — two lemons cut in half for a four-cell battery, zinc nails and 12-gauge copper wire for electrodes,
@@ -8,8 +6,6 @@ lighting one red LED — and ends with a materials table and step-by-step build-
 
 
 ## First, a fact-check of your plan
-
-
 You had most of it right, with two things worth fixing before you start:
 
 1. **Which metal is which electrode.** You wrote "zinc nails and 12 AWG copper wire for cathode & anode,"
@@ -32,8 +28,6 @@ recommends keeping "5 or 6 on hand," and ACS uses seven. Have a couple of spare 
 
 
 ## How a lemon battery works
-
-
 A battery converts **chemical energy into electrical energy**, and a lemon cell does it with two rules of
 chemistry. First, some metals give up electrons more easily than others. Zinc is "eager" — drop it into acid
 and its atoms dissolve into the juice as positively charged zinc ions (Zn²⁺), each leaving **two electrons
@@ -102,8 +96,6 @@ three can be right on the edge.
 
 
 ## Why a low-current LED matters so much
-
-
 Here's the part your linked LED gets wrong. Voltage gets the LED *over the threshold*, but **current is what
 makes light**, and a lemon battery is terrible at supplying current. Each cell has a high **internal
 resistance** — the juice, the small electrode area, and the hydrogen bubbles all fight the flow — so even a
@@ -122,8 +114,6 @@ it's a dim glow rather than a bright point of light.
 
 
 ## Materials
-
-
 For your plan: a four-cell battery from two halved lemons, lighting one red LED.
 
 | Item | Qty | Notes |
@@ -140,8 +130,6 @@ For your plan: a four-cell battery from two halved lemons, lighting one red LED.
 
 
 ## Step-by-step: build the battery
-
-
 1. **Prep the lemons.** Roll each whole lemon firmly under your palm on the counter for a few seconds to
    rupture the internal juice sacs — this frees up electrolyte and noticeably improves output. Then cut each
    lemon in half, giving you **four cells**. Lay the halves cut-face-up so the juicy face is exposed.
@@ -159,8 +147,6 @@ For your plan: a four-cell battery from two halved lemons, lighting one red LED.
 
 
 ## Step-by-step: test it
-
-
 1. **Check one cell first.** Set the multimeter to **DC volts** (2 V range). Touch the red probe to a cell's
    copper and the black probe to its zinc nail. Expect **~0.7–0.9 V**. Near 0 V means the electrodes are
    touching or the copper is oxidized — re-seat them or brighten the wire.
@@ -181,8 +167,6 @@ For your plan: a four-cell battery from two halved lemons, lighting one red LED.
 
 
 ## The takeaway
-
-
 A lemon battery works because **two different metals in an acid** set up a voltage, zinc dissolving to push
 electrons through your wire while copper collects them. One cell (~0.8 V) can't clear a red LED's ~2.1 V
 **forward voltage**, so you stack four in **series** to add up past it — and you choose **red** because it has
@@ -191,6 +175,7 @@ milliamp, so a **low-current LED** is what actually lets you see the result. Get
 metals, series voltage, and tiny current — and you understand not just this fruit battery but every battery,
 and the chemistry behind Volta's original pile.
 
+``
 
 [01]:https://www.amazon.com/Make-Electronics-Learning-Through-Discovery/dp/1680450263/
 [02]:https://www.acs.org/content/dam/acsorg/education/outreach/kidszone/kids-zone-build-a-lemon-battery.pdf
