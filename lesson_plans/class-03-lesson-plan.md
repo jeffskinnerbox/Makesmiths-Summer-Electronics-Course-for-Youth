@@ -49,7 +49,7 @@ Do these before students arrive:
 Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Only items used *this* class are listed.
 
 | Item | Per team | Shared / notes |
-|:-----|:--------:|:---------------|
+| :----- | :--------: | :--------------- |
 | Digital multimeter with leads | 1 | Used in **continuity** mode today |
 | 9-volt battery | 1 | Powers all three experiments |
 | 9-volt battery connector | 1 | Connects battery to the breadboard (Exp 8) |
@@ -73,7 +73,7 @@ Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Onl
 Follows the standard 2-hour session from the syllabus. **This class is full** (three experiments + two new skills) — keep the time checks. Triage guidance is in §9.
 
 | Segment | Clock | Duration |
-|:--------|:------|:--------:|
+| :-------- | :------ | :--------: |
 | 5a. Review & Q&A (Class 2 recap) | 0:00–0:10 | 10 min |
 | 5b. Mini-Lecture (story + reading schematics) | 0:10–0:30 | 20 min |
 | 5c. Guided Builds (Exp 6 + Exp 7 + Exp 8) | 0:30–1:30 | 60 min |
@@ -207,7 +207,7 @@ The marquee build: the course's first **solderless breadboard** circuit, and a r
 
 
 | Problem | Likely cause | Fix |
-|:--------|:-------------|:----|
+| :-------- | :------------- | :---- |
 | LED won't toggle from both switches | One switch mis-wired (using throws as poles) | Center terminal is the pole; the two outer terminals are the throws — re-check against the schematic |
 | Relay makes no click when button pressed | Power not reaching the **coil** pins | Identify the isolated pair (the coil); confirm 9V across them; check the tactile switch is actually closing |
 | Continuity meter never beeps on relay pins | Wrong pin pair, or meter not in continuity | Touch probes together to confirm continuity mode beeps; try other pin pairs by elimination |

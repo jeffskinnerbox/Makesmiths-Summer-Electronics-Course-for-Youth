@@ -19,7 +19,7 @@ The relays where eventually replaced by vacuum tubes and then transistors.
 
 ## How Does The Relay Work
 
-| |  |
+| | |
 | :---: | :---: |
 | ![X](./images/How-DPDT-Relay-Works-1.jpg) | ![X](./images/How-DPDT-Relay-Works-2.jpg) |
 
@@ -28,14 +28,13 @@ The relays where eventually replaced by vacuum tubes and then transistors.
 ## Explore How The Relay is Configured
 Build & test each one of these circuits and explain why you got your measurements.
 
-| |  | |
+| | | |
 | :---: | :---: | :---: |
 | ![X](./images/relay-testing-1.png) | ![X](./images/relay-testing-2.png) | ![X](./images/relay-testing-3.png) |
-
 
 ## What’s Going On Inside
 What’s going on inside?
 Here is a diagram and let's take a look inside too.
-
-![X](./images/relay-testing-layout-of-contacts.png)
-
+<p align="center">
+  <img src="./images/relay-testing-layout-of-contacts.png" width="400">
+</p>

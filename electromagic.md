@@ -95,7 +95,7 @@ Show some magic with OpAmps.
 
 
 | Item | Spec | Notes |
-|--------|--------|-------|
+| -------- | -------- | ------- |
 | AA batteries | 1.5V alkaline | Energizer/Duracell work best |
 | Neodymium disc magnets | 1/2" dia, N52 grade | 4–6 per battery, stacked |
 | Copper wire coil | 20–22 AWG, bare copper | ~10–15 ft for a decent tunnel |

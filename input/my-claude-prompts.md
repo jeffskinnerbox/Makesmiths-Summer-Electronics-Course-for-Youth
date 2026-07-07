@@ -154,3 +154,40 @@ Using the /explainer skill, check the facts I stated and conclude with a table o
 Put you answer in @explainers/build-a-lemon-battery.md
 
 ---
+
+### 12th Claude Code Prompt
+In class 3, the students are exposed to the concept of an object (relay) being in a discrete state (on or off).
+The experiment doesn't emphasize this but this state is the whole purpose of the experiment's circuit.
+The electrical properties (current, voltage, etc.) are not the purpose of the circuit but the created states are.
+
+This observation, creating states is the purpose/goal and the electrical properties is just a mechanism to support the goal,
+is often the case.
+A relevant example of is the 1937 work of Claude Shannon when he wrote his master's degree thesis,
+"A Symbolic Analysis of Relay and Switching Circuits".
+In this thesis, Shannon showed how relay switching circuits could implement the essential operators of Boolean Algebra.
+This change digital circuit design from an art to a science, and made the modern computer possible.
+
+Using the /explainer skill give the story of Claude Shannon thesis and why its so important to today's world of computing.
+Give a brief introductory description of the state of computation before Shannon's work.
+Also in the introduction, the observation "creating states is the purpose/goal of the circuit and the electrical properties is just a mechanism to support the goal".
+
+Put your explanation/story in @explainers/electricity-and-computation.md
+
+---
+
+### 13th Claude Code Prompt
+In class 3, the students are told to create a relay oscillator.
+The strange thing is that this oscillator is created by
+simply taking the output of the relay and routes a portion of its output signal back to the relays input.
+We see this in many electrical circuits.
+How does it work, what are the important applications, what is the theory of operation?
+What role does feedback play in the every day technologies we have around us?
+
+Using the /explainer and /theory_of_operation skills to describe this important of feedback
+and connect it with topics like control theory, robotics, self-driving cars.
+
+Put your explanation/story in @explainers/the-role-of-feedback.md
+
+---
+
+

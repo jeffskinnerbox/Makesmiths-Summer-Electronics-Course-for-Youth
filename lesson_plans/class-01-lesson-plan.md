@@ -53,7 +53,7 @@ Do these before students arrive:
 Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Only items used *this* class are listed.
 
 | Item | Per team | Shared / notes |
-|:-----|:--------:|:---------------|
+| :----- | :--------: | :--------------- |
 | Digital multimeter with leads | 1 | Provided by Makersmiths; measures resistance + continuity today |
 | 9-volt battery | 1 | For the Exp 1 tongue test |
 | AA alkaline cells (single 1.5 V) | 3–4 | Exp 2 short circuit; **alkaline only, never rechargeable/lithium** |
@@ -73,7 +73,7 @@ Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Onl
 Follows the standard 2-hour session from the syllabus. Time checks tell you when to move on even if a team isn't finished.
 
 | Segment | Clock | Duration |
-|:--------|:------|:--------:|
+| :-------- | :------ | :--------: |
 | 5a. Welcome, Safety & Setup | 0:00–0:15 | 15 min |
 | 5b. Mini-Lecture (story first) | 0:15–0:35 | 20 min |
 | 5c. Guided Builds (Exp 1 + Exp 2) | 0:35–1:30 | 55 min |
@@ -230,7 +230,7 @@ Two experiments. Aim ~25 min on Exp 1, ~25 min on Exp 2, with a 5 min buffer. He
 
 
 | Problem | Likely cause | Fix |
-|:--------|:-------------|:----|
+| :-------- | :------------- | :---- |
 | Meter shows nothing at all | Dead/missing meter battery, or meter off | Swap meter battery or use a spare meter; confirm dial is on a function, not OFF |
 | Tongue/skin reads "1", "OL", or "L" | Resistance above the selected range, or dry contact | On a manual meter pick a higher range (200K); moisten the contact point; hold probes closer together |
 | Tongue reading wildly inconsistent | Probe distance/pressure varying between tries | Keep probes a fixed ~1″ apart, gentle even pressure — this is the experiment's lesson about uncontrolled variables |
@@ -282,22 +282,21 @@ Give feedback as questions, not scores: *"What would happen to the reading if yo
 
 
 ## 10. Resources & References
-Curated list of materials
+Curated list of materials for the instructor and the student.
 
-**Course text (it would be great if the students should have read Experiments 1–2):**
+**Primary Source:**
 *Make: Electronics, 2nd Edition*, Charles Platt — [print][01] / free [PDF][02].
 Class 1 covers Experiments 1–2.
 
-**Instructor prep / background:**
-* [Circuit Canvas][09] — makes it quick and easy to draw schematics and wiring diagrams.
+**Instructor Preparation / Background:**
 * [The Electronics Club][12] — friendly entry-level explanations of voltage, current, resistance.
 * [Electronics Tutorials][13] — a little more theory if you want depth on Ohms/Volts/Amps before class.
-* [Electrical Engineering Basics][03]
+* [Electrical Engineering Basics][03] - broad introduction of many topic
 * [An intuitive approach for understanding electricity](https://www.youtube.com/watch?v=X_crwFuPht4) - the water analogy is only sorta/sometimes true
-* [Primer: core concepts in electronic circuits](https://lcamtuf.substack.com/p/primer-core-concepts-in-electronic)
-* [Core concepts #2: impedance is complex](https://lcamtuf.substack.com/p/impedance-part-2-why-do-lcr-meters)
+* [Primer: core concepts in electronic circuits](https://lcamtuf.substack.com/p/primer-core-concepts-in-electronic) - concise introduction of Ohm's Law
+* [Core concepts #2: impedance is complex](https://lcamtuf.substack.com/p/impedance-part-2-why-do-lcr-meters) - concise introduction to electrical impedance
 
-**Student-facing enrichment (optional, after class):**
+**Student-Facing Enrichment:**
 * [Beginner Electronics](https://www.youtube.com/playlist?list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs)
 * [Best Explanation of Alternating Current Vs Direct Current](https://www.youtube.com/watch?v=CCHGatqIkAI&t=138s)
 * [Electricity Water Analogy](https://www.mathsisfun.com/physics/electricity-water-analogy.html)
@@ -305,24 +304,30 @@ Class 1 covers Experiments 1–2.
 * [Understanding the basics of electricity by thinking of it as water](https://www.freeingenergy.com/understanding-the-basics-of-electricity-by-thinking-of-it-as-water/)
 * [Voltage, Current & Resistance: Electricity Explained Finally! (The Water Analogy)](https://www.youtube.com/watch?v=3qz1SVk1sRc)
 * [Every Basic Electronic Component Explained in 21 Minutes](https://www.youtube.com/watch?v=HGNKhLActDo)
-* [Shock and Awe: The Story of Electricity -- Jim Al-Khalili BBC Horizon](https://www.youtube.com/watch?v=Gtp51eZkwoI)
-* [Zap, Crackle and Pop: The Story of Electricity](https://www.youtube.com/watch?v=Ch6jti8i6u4)
-* [Capacitors Are Gaps! How Does That Work?!](https://www.youtube.com/watch?v=zYRx6Zub3cA)
+* [Shock and Awe: The Story of Electricity -- Jim Al-Khalili BBC Horizon](https://www.youtube.com/watch?v=Gtp51eZkwoI) - excellent documentary concerning the history of electricity
+* [Zap, Crackle and Pop: The Story of Electricity](https://www.youtube.com/watch?v=Ch6jti8i6u4) - history of electricity talk at the Royal Institution
+* [Capacitors Are Gaps! How Does That Work?!](https://www.youtube.com/watch?v=zYRx6Zub3cA) - How does a physical gap do anything useful?
 
 For the Physics & Mathematically prepared:
-* [lcamtuf’s Electronics curriculum](https://lcamtuf.substack.com/p/electronics-curriculum) - In book form, check out *The Secret Life of Circuits* by Michal Zalewski
+* [lcamtuf’s Electronics curriculum](https://lcamtuf.substack.com/p/electronics-curriculum) - For the book form of this content, check out [*The Secret Life of Circuits* by Michal Zalewski](https://nostarch.com/secret-life-of-circuits)
 * [Maxwell's Equations - The Ultimate Beginner's Guide](https://www.youtube.com/watch?v=F3QHUvr8d8I)
 * [How Can One Object Affect Another Through Empty Space? | Maxwell’s Equations: Part 1](https://www.youtube.com/watch?v=YqxrlunKCaU)
 * [How Maxwell Completed Electromagnetism | Maxwell’s Equations: Part 2](https://www.youtube.com/watch?v=wt1KJtD4Qh8)
 * [How Divergence and Curl Were Invented](https://www.youtube.com/watch?v=11QvV18JGQM)
 * [Circuit Analysis Using Kirchhoff's Laws](https://www.youtube.com/watch?v=kZvhNDmLjEU)
 
-Breadboard - Help or Hindrance?
+How to Read & Draw an Electrical Schematic
+* [SparkFun Learn: How to Read a Schematic](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic/all) - good source for anyone learning electronics
+* [Electronics Tutorials: Basic Schematic Symbols](https://www.electronics-tutorials.ws/resources/basic-schematic-symbols.html) - another good source for but much more than just schematics
+* [Draw Your Circuit: Circuit Canvas][09] - makes it quick and easy to draw schematics and wiring diagrams.
+* [Draw Your Circuit: DigiKey Scheme-it](https://www.digikey.com/en/schemeit/project) - professional grade schematics and wiring diagrams.
+
+Breadboard - Help or Hindrance ... Maybe Both
 * [Stop Trusting Breadboards! Here’s Why!](https://www.youtube.com/watch?v=zkjdM56bA2M)
 
-**Course context:**
+**KidWind Course Content:**
 * [Makersmiths][05] — the makerspace hosting this course.
-* [KidWind][04] — this course help prepare students for the wind-energy projects - volts/amps/ohms underlie every turbine generator.
+* [KidWind][04] — The KidWind student project concerning wind-energy
 
 ---
 

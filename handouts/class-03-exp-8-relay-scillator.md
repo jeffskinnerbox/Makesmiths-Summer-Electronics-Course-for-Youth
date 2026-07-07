@@ -42,10 +42,6 @@ This slows the circuit down, creating a steady, controllable on-and-off pulse.
 Do the following:
 1. Place a 1,000 µF electrolytic capacitor across the relay coil
 1. Place a 2,200 µF electrolytic capacitor
+1. Place a 3,300 µF electrolytic capacitor
 1. Place a 4,700 µF electrolytic capacitor
 
-
-
-These new concepts are whispering in your ear:
-* relays take on two states: on / off - logic
-* feeding you output into you input create novel behaviors - feedback

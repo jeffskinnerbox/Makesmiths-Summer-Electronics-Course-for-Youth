@@ -141,7 +141,7 @@ Each team shares one [Make: Electronics Standard Component Pack 1][03] (the mult
 All sessions meet **Tuesdays, 6:00–8:00 PM** at [Makersmiths][05].
 
 | Class | Date (Tue) | Phase | Title | Experiments |
-|:-----:|:-----------|:-----:|:------|:------------|
+| :-----: | :----------- | :-----: | :------ | :------------ |
 | 1 | June 23, 2026 | 1 | Electricity Is a Flow | 1–2 |
 | 2 | June 30, 2026 | 1 | Resistance and Ohm's Law | 3–5 |
 | 3 | July 7, 2026 | 2 | Switches, Relays, and Automatic Control | 6–8 |
@@ -152,7 +152,7 @@ All sessions meet **Tuesdays, 6:00–8:00 PM** at [Makersmiths][05].
 ### Class Flow (standard 2-hour session)
 
 | Time | Segment | What happens |
-|:-----|:--------|:-------------|
+| :----- | :-------- | :------------- |
 | 0:00–0:15 | **Welcome & Pre-Reading Recap** | Instructor reviews what students were asked to read; surfaces questions; sets up today's discoveries. |
 | 0:15–0:35 | **Mini-Lecture (story first)** | Short, narrative explanation of today's concept, with a slice of history and a real-world application to hook interest. Theory kept minimal. |
 | 0:35–1:30 | **Guided Builds / Experiments** | Teams perform the experiments. Instructor and adult helpers circulate. Mistakes are allowed; helpers *ask questions rather than fix* so students reason it out. |
@@ -162,7 +162,7 @@ All sessions meet **Tuesdays, 6:00–8:00 PM** at [Makersmiths][05].
 ### Course Phases
 
 | Phase | Classes | Experiments | Focus | Phase Demonstration |
-|:------|:--------|:------------|:------|:--------------------|
+| :------ | :-------- | :------------ | :------ | :-------------------- |
 | **1 — Foundations** | 1–2 | 1–5 | What electricity is; current, voltage, resistance; the multimeter; Ohm's Law; making a battery | Each team explains a working LED circuit and what controls its brightness |
 | **2 — Controlling Electricity** | 3–4 | 6–11 | Switching, relays & automatic control; capacitor timing; transistor switching/amplifying; light & sound | Teams demo their "modular project" producing both a flashing light and a sound |
 | **3 — Magnetism, Generation & KidWind Capstone** | 5–6 | 25, 28, 26 | Electromagnets; electricity ↔ magnetism; self-inductance; generating power with magnets and coils | Generator demo (light an LED from a moving magnet) + KidWind discussion |

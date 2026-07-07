@@ -83,7 +83,7 @@ TBD
 These three course-document skills are designed to work together:
 
 | Skill | Produces | Contains |
-|:------|:---------|:-----|
+| :------ | :--------- | :----- |
 | `syllabus-generator` | Course syllabus | Topics, schedule, objectives, structure, assessment |
 | `lesson-plan-generator` | Per-session lesson plans | Teaching instructions, timing, troubleshooting |
 | `bill-of-materials-generator` | Bill of materials | All costs, quantities, sourcing, shipping |
@@ -179,7 +179,7 @@ AI agent
 ## Where to Put Your Skills
 
 | Location | Scope | When to Use |
-|:------------:|:------------:|:------------:|
+| :------------: | :------------: | :------------: |
 | `~/.claude/skills/` | Global - Available in all projects | General purpose skills like code review, documentation |
 | `.claude/skills/` | Local - Only available to this project | Project specific workflows like team conventions |
 

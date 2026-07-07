@@ -7,7 +7,7 @@ files supply supporting detail and the workflow that drives the pipeline.
 
 
 | File | Purpose |
-|:-----|:--------|
+| :----- | :-------- |
 | `my-vision.md` | This defines what is expected to be accomplished in the course and its overall goal or purpose. It should cover the courses name, duration, class structure, target audience, student goals, required tools, special class activates, special source materials. |
 | `my-notes.md` | This defines a planned sequence of instruction, one of which is the classes covered by the syllabus. It contains the content, materials, resources needed by the classes covered by the syllabus. Think of as the curriculum and it gives the course a context in which it resides. |
 | `my-bom.md` | This is a list things that need to be purchased, or some how acquired, by the instructor to teach the course. This would be tools, supplies or consumables used by the instructor or students in the course. It should say how is it sourced, who acquires it (instructor or student), and if its a shared resource of each student has a copy. A full BOM is generated from it, using the `/bill_of_materials_generator` skill, and placed in `lesson_plans/BOM.md`. |

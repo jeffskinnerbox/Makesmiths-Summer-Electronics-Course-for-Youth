@@ -53,7 +53,7 @@ Do these before students arrive:
 Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Only items used *this* class are listed.
 
 | Item | Per team | Shared / notes |
-|:-----|:--------:|:---------------|
+| :----- | :--------: | :--------------- |
 | Solderless breadboard | 1 | All three experiments |
 | Digital multimeter with leads | 1 | Times the capacitor charge (volts DC) in Exp 9 |
 | 9-volt battery + connector | 1 | Powers all three experiments |
@@ -75,7 +75,7 @@ Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Onl
 Follows the standard 2-hour session from the syllabus. **This class is full and the last build is complex** — keep the time checks. Triage guidance is in §9.
 
 | Segment | Clock | Duration |
-|:--------|:------|:--------:|
+| :-------- | :------ | :--------: |
 | 5a. Review & Q&A (Class 3 recap) | 0:00–0:10 | 10 min |
 | 5b. Mini-Lecture (story first) | 0:10–0:30 | 20 min |
 | 5c. Guided Builds (Exp 9 + Exp 10 + Exp 11) | 0:30–1:30 | 60 min |
@@ -206,7 +206,7 @@ This class ends Phase 2, so the milestone gets its own slot (20 min instead of t
 
 
 | Problem | Likely cause | Fix |
-|:--------|:-------------|:----|
+| :-------- | :------------- | :---- |
 | Capacitor never reaches ~9 V | Electrolytic reversed, or button A not making contact | Check polarity (short lead/minus stripe to −); confirm button A closes; discharge with B and retry |
 | Capacitor charges instantly (no timing) | Resistor shorted or wrong value, or cap value too small | Use the specified resistor + 1,000 µF; make sure the resistor is actually in series |
 | Finger test does nothing | Skin too dry, or jumpers not actually exposed/bridged | Moisten the fingertip; ensure both jumper ends are stripped and you're touching both |

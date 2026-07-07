@@ -55,7 +55,7 @@ Do these before students arrive:
 Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Only items used *this* class are listed.
 
 | Item | Per team | Shared / notes |
-|:-----|:--------:|:---------------|
+| :----- | :--------: | :--------------- |
 | Large steel screwdriver | 1 | Exp 25 — the iron core of the electromagnet (Makersmiths-supplied) |
 | 22-gauge hookup wire (for Exp 25 winding) | ~6 ft | Exp 25 — wound fresh on the screwdriver in class |
 | Paper clip | 1–2 | Exp 25 — the thing the electromagnet picks up |
@@ -79,7 +79,7 @@ Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Onl
 Follows the standard 2-hour session from the syllabus. This class is **lighter on build complexity than Class 4** (two short experiments, no dense multi-transistor circuit), which leaves room for the "why" to land — protect the discussion time, especially the collapsing-field reveal.
 
 | Segment | Clock | Duration |
-|:--------|:------|:--------:|
+| :-------- | :------ | :--------: |
 | 5a. Review & Q&A (Class 4 recap + phase pivot) | 0:00–0:15 | 15 min |
 | 5b. Mini-Lecture (story first) | 0:15–0:35 | 20 min |
 | 5c. Guided Builds (Exp 25 + Exp 28) | 0:35–1:30 | 55 min |
@@ -202,7 +202,7 @@ The heart of the class: see self-inductance and the collapsing field with two LE
 
 
 | Problem | Likely cause | Fix |
-|:--------|:-------------|:----|
+| :-------- | :------------- | :---- |
 | Electromagnet won't pick up the clip | Battery contact not solid, or screwdriver shaft is non-magnetic stainless | Press leads firmly to the battery terminals; try a known-magnetic steel screwdriver; make sure ~100 turns are wound |
 | Clip sticks even with power off | Screwdriver became (or already was) permanently magnetized | Slide the clip out of range first, then power on so the jump is clearly from the current |
 | Electromagnet wire/battery getting hot | Normal — a coil across 9 V is near-short | Connect only a few seconds at a time; don't leave it powered |

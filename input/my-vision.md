@@ -106,13 +106,13 @@ This can automated by using the skills listed below:
 
 
 | Skill | Prompt & Input File | Output File |
-|:------:|:------:|:------:|
+| :------: | :------: | :------: |
 | `/syllabus_generator` | `my-vision.md` | `lesson_plans/syllabus.md` |
 | `/bill_of_materials_generator` | `my-bom.md` | `lesson_plans/BOM.md` |
-| `/lesson_plan_generator` | `my-vision.md`, `lesson_plans/syllabus.md`, "Make: Electronics, 2nd Edition"  | `lesson_plans/class-00-lesson-plan.md` |
+| `/lesson_plan_generator` | `my-vision.md`, `lesson_plans/syllabus.md`, "Make: Electronics, 2nd Edition" | `lesson_plans/class-00-lesson-plan.md` |
 | `/explainer` | "Make: Electronics, 2nd Edition" | `lesson_plans/class-00-lesson-plan.md` |
-| `/history_and_application` | "Make: Electronics, 2nd Edition"  | `lesson_plans/class-00-lesson-plan.md` |
-| `/theory_of_operation` | "Make: Electronics, 2nd Edition"  | `lesson_plans/class-00-lesson-plan.md` |
+| `/history_and_application` | "Make: Electronics, 2nd Edition" | `lesson_plans/class-00-lesson-plan.md` |
+| `/theory_of_operation` | "Make: Electronics, 2nd Edition" | `lesson_plans/class-00-lesson-plan.md` |
 
 
 Also use the skill `/grill-me` to ask me any clarifying questions concerning anything AI created.

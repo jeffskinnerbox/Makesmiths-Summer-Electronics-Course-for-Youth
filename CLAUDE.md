@@ -67,11 +67,12 @@ you add or move files, update the matching subdirectory README and the root READ
 the skill pipeline — they are *not* skill outputs and do *not* follow the appendix convention, though they
 should still stay factually consistent with the syllabus/BOM/lesson plans (class titles, components, course
 code ELL-W101). They are organized into:
-- `handouts/` — student-facing materials, e.g. `handouts/cheatsheet.md` (per-class student cheat sheet).
+- `handouts/` — student-facing materials, e.g. `handouts/class-02-cheatsheet.md` (per-class student cheat
+  sheet) and per-experiment handouts like `handouts/class-03-exp-6-manual-switches.md`.
 - `communications/` — parent/student outreach: `communications/letter-to-parents.md` and
   `communications/registration.md` (event/registration details; **`registration.md` is `.gitignore`d** —
   it holds student/parent contact info and is intentionally not committed).
-- repo root — `electromagic.md` (scratch reference links).
+- repo root — `electromagic.md` and `dpdt-relay-pinouts.md` (scratch reference links/notes).
 
 `explainers/` holds standalone `/explainer` outputs (e.g. `war-of-the-currents.md`,
 `how-fast-is-electricity.md`) — short student-reading pieces. These follow the explainer skill's format, not

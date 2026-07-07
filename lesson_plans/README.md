@@ -12,7 +12,7 @@ Phase 3 — Magnetism, Generation & the KidWind Capstone (Classes 5–6).
 
 
 | File | Purpose |
-|:-----|:--------|
+| :----- | :-------- |
 | `syllabus.md` | Course-level overview — schedule, audience, format, primary text, components, phases, and the verbal "explain-it" assessment milestones. The map the lesson plans fill in. |
 | `BOM.md` | Bill of Materials — the **single source of truth for all cost and sourcing**. Costs, quantities, and purchase/supplier links live here and *nowhere else* (the syllabus and lesson plans name components but never price or link them). Generated from `input/my-bom.md`. |
 | `class-01-lesson-plan.md` | Class 1 — *Electricity Is a Flow*. Experiments 1 (*Taste the Electricity*) and 2 (*Let's Abuse a Battery!*). |

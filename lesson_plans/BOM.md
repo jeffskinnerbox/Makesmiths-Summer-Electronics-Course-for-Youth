@@ -42,7 +42,7 @@ Required Kit Subtotal = 3 × $94.55 = **$283.65** (3 teams)
 ### Per-Team Optional
 
 | Item | Quantity | Item Cost | Source | Notes |
-|:-----:|:-----:|:-----:|:-----:|:--------:|
+| :-----: | :-----: | :-----: | :-----: | :--------: |
 | Spare Standard Component Pack 1 | 1 | $94.55 | [ProTechTrader][03] | Backup for dead components or an extra/odd student |
 | Student's own Pack 1 (for home use) | 1 | $94.55–$106.55 | [ProTechTrader][03] / [Amazon][04] | Paid by the student/parent, not the course; lets a student experiment at home |
 
@@ -55,7 +55,7 @@ small cheap electronics spares (1N4001 diode, extra 1,000µF capacitor, 47Ω res
 are pulled from the Makersmiths electronics stock — see *Tools / Provided by Makersmiths* *(see [Appendix A](#appendix-a--source-prompt-and-clarification-qa), D5)*.
 
 | Item | Quantity | Item Cost | Source | Notes |
-|:-----:|:-----:|:-----:|:-----:|:--------:|
+| :-----: | :-----: | :-----: | :-----: | :--------: |
 | Neodymium cylinder magnet, 3/4″ × 1″, axially magnetized (N42) | 3 | $14.53 ea | [K&J Magnetics][05] | **One per team** — the per-team hand-generator magnet for Exp 26 (Class 6); strong enough to flicker a low-current LED through a ~200 ft hand-wound 22-ga coil. No spinning rig is built this year *(see Appendix A, D3)* |
 | 26 AWG enameled magnet wire, ~1 lb (~1,300 ft) spool | 1 | $27.00 | [Amazon][06] | Coil wire for **two of the three teams** (Exp 25/26/28); thin insulation packs **more turns** in the same space than hookup wire → stronger field / more output *(see Appendix A, D4)*. `[VERIFY PRICE]` (1/2-lb 650-ft spools run ~$30) |
 | 22 AWG solid hookup wire, ~500 ft spool | 1 | $20.00 | Amazon | Coil wire for **one team** (Exp 26 ~200 ft + Exp 28 ~100 ft) — deliberately the **thicker** wire so that team's coils have **fewer turns**, letting the class see how wire type affects the result *(see Appendix A, D4)*. `[VERIFY PRICE]` |
@@ -68,7 +68,7 @@ Shared Supplies Subtotal = (3 × 14.53) + 27.00 + 20.00 + 5.00 + 3.00 + 0.00 = *
 ### Shipping
 
 | Item | Quantity | Item Cost | Source | Notes |
-|:-----:|:-----:|:-----:|:-----:|:--------:|
+| :-----: | :-----: | :-----: | :-----: | :--------: |
 | ProTechTrader shipping | NA | $0.00 | [ProTechTrader][03] | Free on orders $50+ (kit order is ~$284) |
 | K&J Magnetics shipping | NA | $7.50 | [K&J Magnetics][05] | Flat small-order ship. `[VERIFY PRICE]` |
 | Amazon shipping (magnet wire + hookup wire) | NA | $0.00 | [Amazon][06] | Free with Prime |
@@ -116,7 +116,7 @@ Course Total (with spare kit) = 389.74 + 94.55 = ~$484.29  (~$80.72 per student)
 ### Provided by Makersmiths (no course cost)
 
 | Item | Quantity | Source | Notes |
-|:-----:|:-----:|:-----:|:--------:|
+| :-----: | :-----: | :-----: | :--------: |
 | Digital multimeter (with leads) | 3 | Makerspace | One per team — the Standard kit excludes it; measures V / I / R / continuity |
 | 9-volt and AA batteries | as needed | Makerspace | Powers the experiments — the Standard kit excludes batteries |
 | Safety glasses | 6+ | Makerspace | Worn for Exp 2 (short circuit/blow a fuse) and capstone work |
@@ -129,7 +129,7 @@ Course Total (with spare kit) = 389.74 + 94.55 = ~$484.29  (~$80.72 per student)
 ### Provided by Each Student
 
 | Item | Quantity | Source | Notes |
-|:-----:|:-----:|:-----:|:--------:|
+| :-----: | :-----: | :-----: | :--------: |
 | *Make: Electronics*, 2nd Edition | 1 | Student — [Amazon][01] or free [PDF][02] | Required course text (~$25 print, or free PDF) |
 | Build journal (notebook) + pencil | 1 | Student | Primary record/assessment artifact |
 | Simple calculator | 1 | Student | Handy for Ohm's Law work |

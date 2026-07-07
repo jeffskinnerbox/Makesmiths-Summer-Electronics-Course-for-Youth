@@ -7,7 +7,7 @@ An electrical schematic is a **map of an electronic circuit that uses abstract, 
 ## Basic Schematic Symbols
 Identify these basic schematic symbols.
 
-| |  | |
+| | | |
 | :---: | :---: | :---: |
 | ![X](./images/schematics-for-push-button-switch.png) | ![X](./images/schematics-for-DPDT-switches.png) | ![X](./images/schematics-for-switches.png) |
 | ![X](./images/schematics-for-LED.png) | ![X](./images/schematics-for-resistors-variable.png) | ![X](./images/schematics-for-resistors.png) |
@@ -20,7 +20,7 @@ Identify these basic schematic symbols.
 Using the schematic below, create a "stairway switch".
 
 | Starway Diagram | Stairway Switch Schematic |
-| :---: | :---: |
+|:---:|:---:|
 | ![stairway picture](./images/stairway-picture.png) | ![stairway switch schematic](./images/stairway-switch.png) |
 
 

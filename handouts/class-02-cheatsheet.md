@@ -2,13 +2,13 @@
 
 ## The Water vs Electricity Analogy
 
-| Generic Description | Water Name | Electrical Name |  Measurement Units |
-|:------------:|:-----------:|:---------------:|:---------------------------:|
-| the force pushing | Pressure |  Voltage or **V** | Pounds per Square Inch / Volts |
-| how much flows | Flow Rate |  Current / Amperage or **I** | Gallons per Minute / Amps |
-| narrowing / roughness | Hydraulic Resistance |  Resistance or **R** | Head Loss / Ohms |
-| rate of doing work | Hydraulic Power |  Power or **P** | Hydraulic Power / Watts |
-| capacity to do work | Hydraulic Energy |  Electrical Energy or **J** | Joules / Joules |
+| Generic Description | Water Name | Electrical Name | Measurement Units |
+| :------------: | :-----------: | :---------------: | :---------------------------: |
+| the force pushing | Pressure | Voltage or **V** | Pounds per Square Inch / Volts |
+| how much flows | Flow Rate | Current / Amperage or **I** | Gallons per Minute / Amps |
+| narrowing / roughness | Hydraulic Resistance | Resistance or **R** | Head Loss / Ohms |
+| rate of doing work | Hydraulic Power | Power or **P** | Hydraulic Power / Watts |
+| capacity to do work | Hydraulic Energy | Electrical Energy or **J** | Joules / Joules |
 
 
 ## Nature's Law

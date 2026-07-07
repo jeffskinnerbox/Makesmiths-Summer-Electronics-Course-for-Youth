@@ -79,7 +79,7 @@ threshold, so the LED stays dark no matter how long you wait. The fix is to wire
 (end to end, nail-to-copper, nail-to-copper…), which **adds their voltages**:
 
 | Cells in series | Approx. open-circuit voltage | Past the red LED's ~2.1 V threshold? |
-|:---------------:|:----------------------------:|:------------------------------------:|
+| :---------------: | :----------------------------: | :------------------------------------: |
 | 1 | ~0.8 V | No |
 | 2 | ~1.6 V | No |
 | 3 | ~2.4 V | Just barely |
@@ -117,7 +117,7 @@ it's a dim glow rather than a bright point of light.
 For your plan: a four-cell battery from two halved lemons, lighting one red LED.
 
 | Item | Qty | Notes |
-|:-----|:---:|:------|
+| :----- | :---: | :------ |
 | Fresh lemons | 2 (+1–2 spare) | Cut each in half → four cells. Roll firmly on the counter first to break the juice sacs. Soft, juicy lemons work best |
 | Zinc nails (galvanized) | 4 | The **anode (−)**. Galvanized roofing or common nails; the zinc coating is what reacts |
 | 12 AWG solid copper wire | 4 pieces, ~2–3″ each | The **cathode (+)**. Strip off any insulation so bare copper meets the juice; scuff dull wire bright with sandpaper |

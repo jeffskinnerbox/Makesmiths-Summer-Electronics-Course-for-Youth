@@ -53,7 +53,7 @@ Do these before students arrive:
 Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Only items used *this* class are listed.
 
 | Item | Per team | Shared / notes |
-|:-----|:--------:|:---------------|
+| :----- | :--------: | :--------------- |
 | Digital multimeter with leads | 1 | Measures ohms, volts DC, and mA today |
 | 9-volt battery | 1 | Powers Exp 3 and Exp 4 |
 | Generic LEDs | 3–4 | Exp 3 + Exp 4; expect to sacrifice one or two in the dimming demo |
@@ -76,7 +76,7 @@ Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Onl
 Follows the standard 2-hour session from the syllabus. **This class is tight** — the time checks are not optional. If you fall behind, see the triage note in §9.
 
 | Segment | Clock | Duration |
-|:--------|:------|:--------:|
+| :-------- | :------ | :--------: |
 | 5a. Review & Q&A (Class 1 recap) | 0:00–0:10 | 10 min |
 | 5b. Mini-Lecture (story first) | 0:10–0:30 | 20 min |
 | 5c. Guided Builds (Exp 3 + Exp 4 + Exp 5) | 0:30–1:30 | 60 min |
@@ -164,7 +164,7 @@ This is the centerpiece. A potentiometer ("pot") is a knob-controlled variable r
 **Step 3 — The Ohm's Law discovery.** Remove the LED. Put the meter in series with the **1K resistor + 1K pot**. Measure the current at three settings and record total resistance vs. current:
 
 | Pot setting | Total resistance | Current (≈) |
-|:------------|:----------------:|:-----------:|
+| :------------ | :----------------: | :-----------: |
 | Fully clockwise (~0 Ω) | 1K | 9 mA |
 | Halfway (~500 Ω) | 1.5K | 6 mA |
 | Fully counterclockwise (1K) | 2K | 4.5 mA |
@@ -254,7 +254,7 @@ To maximize your chances of success without needing a massive chain of lemons:
 
 
 | Problem | Likely cause | Fix |
-|:--------|:-------------|:----|
+| :-------- | :------------- | :---- |
 | LED won't light at all | LED in backwards (polarity) | Flip the LED — long leg toward battery + |
 | LED flashed bright then went dark forever | Burned out (too much current, no/low resistance) | Replace LED; ensure a resistor is in series; for the pot, start at max resistance |
 | All three resistors give the same brightness | LED reversed, or a clip shorting across the resistor | Check LED direction; make sure alligator clips aren't touching each other |

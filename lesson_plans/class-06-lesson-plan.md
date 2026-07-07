@@ -55,7 +55,7 @@ Do these before students arrive. **Magnet and coil prep is the make-or-break ite
 Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Only items used *this* class are listed.
 
 | Item | Per team | Shared / notes |
-|:-----|:--------:|:---------------|
+| :----- | :--------: | :--------------- |
 | Generator coil on a short 3/4″ ID PVC tube | 1 | **Wound before class** (see §3): **two teams use 26-ga magnet wire, one uses 22-ga hookup wire** on identical tubes, so the class can compare. The more turns, the more output. PVC bore sized so the strong magnet slides through |
 | Neodymium cylinder magnet, 3/4″ × 1″ axially magnetized | 1 | The strong magnet each team shuttles through its coil; **rotate one shared magnet** if only one is available |
 | Low-current LEDs | 1–2 | The thing you light with generated power; spares — pulses can be rough |
@@ -72,7 +72,7 @@ Names and quantities only — see [`BOM.md`](BOM.md) for costs and sourcing. Onl
 Follows the standard 2-hour session from the syllabus. The build is short and dramatic; the **milestone, recap, and KidWind close get a full half-hour** because this is the last class.
 
 | Segment | Clock | Duration |
-|:--------|:------|:--------:|
+| :-------- | :------ | :--------: |
 | 5a. Review & Q&A (Class 5 recap + the big flip) | 0:00–0:15 | 15 min |
 | 5b. Mini-Lecture (story first) | 0:15–0:35 | 20 min |
 | 5c. Guided Build (Exp 26 per-team generators) | 0:35–1:25 | 50 min |
@@ -182,7 +182,7 @@ This is the close of the whole course — slow down and make it land.
 
 
 | Problem | Likely cause | Fix |
-|:--------|:-------------|:----|
+| :-------- | :------------- | :---- |
 | Meter reads ~0 while moving the magnet | Meter on DC (induced output is AC), or lead not clipped to bare wire | Switch to **AC volts/mV**; confirm both coil ends are stripped/clean and clipped |
 | Tiny reading, magnet barely does anything | Too few turns or slow motion | Use the full ~200-ft coil and the strong 3/4″ × 1″ magnet; move faster; magnet must pass *through* the coil, not just near it |
 | LED won't light at all | Generic (not low-current) LED, or too little generated current | Use a **low-current LED**; move the magnet vigorously through the tube; make sure it's the strong magnet |
