@@ -325,6 +325,10 @@ How to Read & Draw an Electrical Schematic
 Breadboard - Help or Hindrance ... Maybe Both
 * [Stop Trusting Breadboards! Here’s Why!](https://www.youtube.com/watch?v=zkjdM56bA2M)
 
+**Simple Projects for More Experimentation**
+* [Circuits DIY](https://www.circuits-diy.com/)
+  * [Projects Involving 2N2222 Transistors](https://www.circuits-diy.com/tag/2n2222/)
+
 **KidWind Course Content:**
 * [Makersmiths][05] — the makerspace hosting this course.
 * [KidWind][04] — The KidWind student project concerning wind-energy

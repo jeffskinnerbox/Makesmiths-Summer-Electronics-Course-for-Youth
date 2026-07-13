@@ -54,7 +54,7 @@ What you need:
   This wire is 20 AWG wire has a diameter of 0.81mm and 2.10 ohms/m
   (**NOTE:** direct measurement of wire gave me 2.3 ohms/m)
 * [100 Ohm Resistor, 5W 5% Tolerance Metal Oxide Film Resistor][02]
- (**NOTE:** direct measurement of resistor gave me 98.6 ohms)
+  (**NOTE:** direct measurement of resistor gave me 98.6 ohms)
 
 We are using Nichrome wire.
 Nichrome wire is a specialized heat-resistant alloy made primarily of nickel and chromium (usually an 80/20 ratio).
@@ -71,8 +71,25 @@ Nichrome wire is the core heating element in toasters, hair dryers, and space he
 
 ## Capacitance Multiplier - Class 4
 Show some magic with OpAmps.
-
 * [Cursed circuits #5: capacitance multiplier](https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier)
+
+----
+
+* [The Little Prince’s Guide to 2N2222 Transistor: Tiny Switches, Big Magic]()
+
+## Transistor Amplifier - Class 4
+* [2N2222A Transistor Amplifier](https://robocraze.com/blogs/post/what-is-a-2n2222a-transistor-its-working) - Doing this one
+* [Simple 2-Transistor Audio AMplifier](https://www.petervis.com/GCSE_Design_and_Technology_Electronic_Products/2-transistor-amplifier-circuit/2-transistor-amplifier-circuit.html)
+
+----
+
+## Simple Tesla Coil
+* [Simplest Tesla coil circuit using Transistor](https://www.gadgetronicx.com/simplest-tesla-coil-circuit/)
+* [2 Stage Amplifier Circuit using Transistors](https://www.gadgetronicx.com/2-stage-amplifier-circuit-transistors/)
+* [Mini Tesla Coil Circuit](https://www.circuits-diy.com/mini-tesla-coil-circuit-2/)
+
+## Joule Thief
+* [Joule Thief Voltage Booster Using a Transistor & a Toroidal Transformer](https://www.circuits-diy.com/joule-thief-voltage-booster-using-a-transistor-a-toroidal-transformer/)
 
 ----
 
@@ -120,6 +137,21 @@ manifesting as a loud hum or buzzing in audio and video
 ----
 
 
+## Digital Logic
+* [Digital Logic Gates - From Transistors, AND, NAND, OR, NOR, XOR, XNOR, Buffer, and Inverter](https://www.youtube.com/playlist?list=PL52rQn9fkWwNrZ2wSoO962_7hmBCqOrUZ)
+* [XOR Gate, Exclusive OR Gate](https://www.gsnetwork.com/xor-gate/)
+
+* [Logic Gates Demonstration Kit](https://www.instructables.com/Logic-Gates-Demonstration-Kit/)
+* [Discrete Logic Gate Module](https://www.tindie.com/products/johnson/discrete-logic-gate-module/)
+
+* [Beginner Electronics - 26 - Logic Gates and Floating Inputs](https://www.youtube.com/watch?v=i0mwHTYeEPI&list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs&index=26)
+* [Beginner Electronics - 27 - Intro to Binary](https://www.youtube.com/watch?v=4NIgBmJ5SVw&list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs&index=29)
+* [Beginner Electronics - 28 - Binary Arithmetic & 2's Complement](https://www.youtube.com/watch?v=reY4HoIfD6Q)
+* [Beginner Electronics - 29 - Binary Half-Adder](https://www.youtube.com/watch?v=pc5ukqMA_-s)
+* [Beginner Electronics - 30 - Binary Full Adder](https://www.youtube.com/watch?v=_9KhLLWrcaw)
+* [Beginner Electronics - 31 - Binary Subtractor](https://www.youtube.com/watch?v=4BDLu6UmJ_c)
+
+* [Artificial Neurons](https://www.youtube.com/playlist?list=PL52rQn9fkWwNy6jSXXr03KT-_TVaTFPWm)
 
 
 
@@ -127,6 +159,7 @@ manifesting as a loud hum or buzzing in audio and video
 
 
 ## DIY Motor
+* [How Motion becomes Electricity](https://www.youtube.com/watch?v=PYrU3sBvHRU)
 * [3 Simple DIY Motor Experiments](https://www.youtube.com/watch?v=q9VpXz01msM)
 * [How to build an electric motor. This video shows how to make your very ownelectric motor](https://www.youtube.com/watch?v=lwn15-Ze2b4)
 
