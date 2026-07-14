@@ -68,9 +68,12 @@ water-vs-electricity analogy mapping pressure and flow to voltage and current.
 
 ### `explainers/`
 **Purpose:** short supplementary "but *why*?" reading that deepens intuition beyond the experiments.<br>
-**Contents:** five standalone pieces — `war-of-the-currents.md`, `why-do-wires-heat-up.md`,
-`where-does-electricity-flow-in-a-wire.md`, `how-fast-is-electricity.md`, and `build-a-lemon-battery.md` —
-each posing a single question (or build) and answering it in plain English.
+**Contents:** eleven standalone pieces — `war-of-the-currents.md`, `why-do-wires-heat-up.md`,
+`where-does-electricity-flow-in-a-wire.md`, `how-fast-is-electricity.md`, `build-a-lemon-battery.md`,
+`electricity-and-computation.md`, `the-role-of-feedback.md`, `maxwells-equations.md`, `rc-networks.md`,
+`capacitive-coupling.md`, and `displacement-current.md` —
+each posing a single question (or build) and answering it in plain English; see `explainers/README.md`
+for the per-file question each one answers.
 
 ### `communications/`
 **Purpose:** outreach to parents and students, separate from the in-class teaching materials.
