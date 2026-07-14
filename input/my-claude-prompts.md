@@ -190,4 +190,14 @@ Put your explanation/story in @explainers/the-role-of-feedback.md
 
 ---
 
+### 14th Claude Code Prompt
+In class 4, the students do experiments and are told about RC Networks, Capacitive Coupling, and Displacement Currents.
+Review these topics in the @input/Make-Electronics-2nd-Edition.pdf, @lesson_plans/class-04-lesson-plan.md,
+and @handouts/class-04-exp*.md documents. These are advance topics that the students will find challenging.
+
+Using the /explainer and /theory_of_operation skills to describe this important of RC Networks, Capacitive Coupling, and Displacement Currents.
+Create one explanation/story document for each topic and place them in @explainers directory.
+
+---
+
 
