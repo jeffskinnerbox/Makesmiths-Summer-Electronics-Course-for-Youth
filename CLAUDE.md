@@ -72,7 +72,8 @@ code ELL-W101). They are organized into:
 - `communications/` — parent/student outreach: `communications/letter-to-parents.md` and
   `communications/registration.md` (event/registration details; **`registration.md` is `.gitignore`d** —
   it holds student/parent contact info and is intentionally not committed).
-- repo root — `electromagic.md` and `dpdt-relay-pinouts.md` (scratch reference links/notes).
+- repo root — `electromagic.md` (scratch reference links/notes). `dpdt-relay-pinouts.md` formerly lived
+  here too but has moved into `explainers/`.
 
 `explainers/` holds standalone `/explainer` outputs (e.g. `war-of-the-currents.md`,
 `how-fast-is-electricity.md`) — short student-reading pieces. These follow the explainer skill's format, not

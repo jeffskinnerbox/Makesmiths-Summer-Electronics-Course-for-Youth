@@ -200,4 +200,55 @@ Create one explanation/story document for each topic and place them in @explaine
 
 ---
 
+### 15th Claude Code Prompt
+In class 5 and 6, students are introduced to the relationship between electricity and magnetism.
+Read lesson plans and Experiments 25, 26, and 28 of @input/Make-Electronics-2nd-Edition.pdf to find out what is in Class 5 & 6.
+How has mankind exploited this relationship from the time of it discovery to the present day?
+
+Starting from discovery of this relationship to the present time,
+include a table capturing the dates, inventions, and the inventions value/impact on society.
+The inventions must contain electricity and physical magnets or electromagnets within them.
+The table should span the whole time, list the most impactful inventions, and have 100 or less inventions.
+
+Using the /explainer and /theory_of_operation skills, create this story and table timeline.
+Put your explanation/story in @explainers/electromagnetism-inventions.md.
+
+---
+
+### 16th Claude Code Prompt
+Review materials for class 5 and 6.
+When magnets move it creates moving electrons and when electrons move, it creates magnetism.
+We call this combined behavior electromagnetism.
+We can find natural sources of electrons flowing in the chemistry of batteries.
+We can find natural sources of magnetism in magnetic materials.
+
+1. When the chemistry runs it full course, the electrons stop flowing and the electric field stops.
+   Does a natural magnet ever losses it magnetic field?
+2. You can find a positive charged object or negative charged object in isolation.  You do not need to have the pair together.
+   Magnets have a north and south pole but the always come together, you never find just a north or a south.
+   Why is this?
+
+Using the /explainer and /theory_of_operation skills, and answer my questions.
+Put your explanation/story in @explainers/magnetic-monopoles.md.
+
+---
+
+### 17th Claude Code Prompt
+Review materials for class 5 and 6.
+When electricity flows through a wire, it creates a magnetic field around the wire.
+Because the electricity “induces” this effect, it is known as inductance.
+The field around a straight wire is very weak, but if we bend the wire into a circle, the magnetic force starts to accumulate
+If we add more circles, to form a coil, the force accumulates even more.
+And if we put a steel or iron object in the center of the coil, the effectiveness increases further.
+You have made a electromagnet via a coiled wire.
+
+Applying a 9-volt battery to a spool copper wire, as described above, seems like a very bad idea,
+because you’re going to heat the wire very hot and your going to short out your battery.
+But this doesn't seem to happen. Why? Explain the transient and steady-state behaviour.
+
+Using the /explainer and /theory_of_operation skills, and answer my questions.
+Put your explanation/story in @explainers/inductance-and-resistance.md.
+
+---
+
 

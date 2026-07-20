@@ -63,15 +63,19 @@ documents must agree on class numbering, titles, experiments, and components.
 
 ### `handouts/`
 **Purpose:** student-facing materials printed and handed out at the bench.<br>
-**Contents:** `cheatsheet.md`, a per-class quick reference (starting with Class 1) condensing key ideas into at-a-glance form, such as the
-water-vs-electricity analogy mapping pressure and flow to voltage and current.
+**Contents:** `class-02-cheatsheet.md`, a quick reference condensing key ideas into at-a-glance form (such as the
+water-vs-electricity analogy mapping pressure and flow to voltage and current); per-experiment handouts for
+Classes 3–6 (`class-03-exp-6-manual-switches.md` through `class-06-exp-26-generating-your-own-power.md`),
+each a one-or-two-page bench guide for a single experiment; and `images/`, the breadboard photos and
+schematics those handouts embed. See `handouts/README.md` for the per-file table.
 
 ### `explainers/`
 **Purpose:** short supplementary "but *why*?" reading that deepens intuition beyond the experiments.<br>
-**Contents:** eleven standalone pieces — `war-of-the-currents.md`, `why-do-wires-heat-up.md`,
+**Contents:** fifteen standalone pieces — `war-of-the-currents.md`, `why-do-wires-heat-up.md`,
 `where-does-electricity-flow-in-a-wire.md`, `how-fast-is-electricity.md`, `build-a-lemon-battery.md`,
-`electricity-and-computation.md`, `the-role-of-feedback.md`, `maxwells-equations.md`, `rc-networks.md`,
-`capacitive-coupling.md`, and `displacement-current.md` —
+`electricity-and-computation.md`, `maxwells-equations.md`, `dpdt-relay-pinouts.md`, `the-role-of-feedback.md`,
+`rc-networks.md`, `capacitive-coupling.md`, `displacement-current.md`, `electromagnetism-inventions.md`,
+`magnetic-monopoles.md`, and `inductance-and-resistance.md` —
 each posing a single question (or build) and answering it in plain English; see `explainers/README.md`
 for the per-file question each one answers.
 

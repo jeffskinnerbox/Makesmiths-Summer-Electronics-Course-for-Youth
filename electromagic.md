@@ -161,7 +161,7 @@ manifesting as a loud hum or buzzing in audio and video
 ## DIY Motor
 * [How Motion becomes Electricity](https://www.youtube.com/watch?v=PYrU3sBvHRU)
 * [3 Simple DIY Motor Experiments](https://www.youtube.com/watch?v=q9VpXz01msM)
-* [How to build an electric motor. This video shows how to make your very ownelectric motor](https://www.youtube.com/watch?v=lwn15-Ze2b4)
+* [How to build an electric motor. This video shows how to make your very own electric motor](https://www.youtube.com/watch?v=lwn15-Ze2b4)
 
 ## Joule Thief
 * [Why This Circuit Works When It Shouldn’t](https://www.youtube.com/watch?v=Sh9aZ2uemk0)
