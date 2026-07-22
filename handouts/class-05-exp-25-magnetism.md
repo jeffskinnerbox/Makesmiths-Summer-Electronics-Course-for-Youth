@@ -3,13 +3,11 @@
 This is a course on electronics, so what is the relationship between electricity and magnetism?
 * **Electricity can create magnetism**:<br>
   When electricity flows through a wire, the electricity creates a magnetic force
-  around the wire. This principle is used in almost every electric motor in the world.
+  around the wire.
+  This principle is used in almost every electric motor in the world.
 * **Magnetism can create electricity**:<br>
-  When a wire moves through a magnetic field, the field creates a flow of
-  electricity in the wire.
-  This principle is used in power generation. A diesel engine, or a water-powered
-  turbine, or a windmill, or some other source of energy can turn coils of wire
-  through a powerful magnetic field.
+  When a wire moves through a magnetic field, the field creates a flow of electricity in the wire.
+  This principle is used in electric power generation.
 
 **What you will need**<br>
 * Large screwdriver or some other iron/steel rod

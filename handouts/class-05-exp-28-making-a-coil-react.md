@@ -31,7 +31,6 @@ _pages 648_
 When you look at the schematic, it doesn’t seem to make much sense.
 The 47-ohm resistor seems too small to protect the LED
 but why should the LED light up at all, when the electricity can go around it through the coil?
-<div style="page-break-after: always;"></div>
 
 ## Build This 2nd
 Try adding a second LED, but wired in the opposite direction as illustrated below:
@@ -52,6 +51,7 @@ _pages 649 - 650_
 **What you observe**<br>
 Press the button again, and the first LED flashes, as before.
 But now when you release the button, the second LED flashes.
+<div style="page-break-after: always;"></div>
 
 ## A Collapsing Field
 Here’s what happened during this experiment.
